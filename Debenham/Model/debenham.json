@@ -1847,7 +1847,7 @@
     {
         "id": 3700,
         "term": "Axil",
-        "meaning": "the angle formed by a part in relation to its parent structure, e.g, as that formed by a leaf in relation to the stem."
+        "meaning": "the angle formed by a part in relation to its parent structure, e.g. as that formed by a leaf in relation to the stem."
     },
     {
         "id": 3710,
@@ -5012,38 +5012,2033 @@
     },
     {
         "id": 10030,
-        "term": "",
-        "meaning": ""
+        "term": "Dichlamydeous",
+        "meaning": "of a flower when possessing both calyx and corolla."
     },
     {
         "id": 10040,
-        "term": "",
-        "meaning": ""
+        "term": "dicho(s) Gk.",
+        "meaning": "as in dichopogon, double, in two."
     },
     {
         "id": 10050,
-        "term": "",
-        "meaning": ""
+        "term": "Dichogamy",
+        "meaning": "of a bisexual flower, the maturing of the stigma and anthers at different times, the effect being the avoidance of self-pollination. See protandry, protogyny."
     },
     {
         "id": 10060,
-        "term": "",
-        "meaning": ""
+        "term": "Dichotomous",
+        "meaning": "of branching when developing in a forked manner, the two branches either equal (bifurcate or true dichotomy) or not equal by the more vigorous growth of one (sympodial dichotomy)."
     },
     {
         "id": 10070,
-        "term": "",
-        "meaning": ""
+        "term": "Diclinous",
+        "meaning": "of a species, dioecious; of an individual, either unisexual or monoecious."
     },
     {
-        "id": 19830,
+        "id": 10080,
+        "term": "Dicliny",
+        "meaning": "dioecism, or monoecism."
+    },
+    {
+        "id": 10090,
+        "term": "Dicotyledon",
+        "meaning": "(abbreviated in this work to dicot.) an angiosperm for which the following are characteristic but not exclusive to it; floral parts pentamerous (in 5's) and divisible to calyx and corolla, embryo with two epigeal cotyledons, cambium forming a continuous cylinder, vascular system forming a single cylinder sometimes (when herbaceous) reduced and dissected, leaves pinnately or palmately, sometimes reticulately veined, root system a branched primary root. While none of these features applies to all dicots, there is also no clear separation from the monocotyledon which evidence favours as a derivation from an early dicot stock. Overall similarities and differences support their maintenance as separate classes.\n\nTreated by most authors as a class Dicotyledonae or other authors as sub-class Dicotyledonidae, the tendency has been to establish finer limits for orders and families as relationships become better known. Hutchinson, 1959 provides 80 orders linking about 340 families, some families with one or few members, others with thousands."
+    },
+    {
+        "id": 10100,
+        "term": "dicra-",
+        "meaning": "as in dicrastylis, forked. From Gk. di, crat(os, power."
+    },
+    {
+        "id": 10110,
+        "term": "dicto(n) Gk.",
+        "meaning": "as in dictyodromous, a net (hence net-veined, anastomose)."
+    },
+    {
+        "id": 10120,
+        "term": "Dictyosome",
+        "meaning": "see Golgi."
+    },
+    {
+        "id": 10130,
+        "term": "Dictyostele",
+        "meaning": "a stele (q.v.) in which the vascular cylinder is dissected into a network of overlapping leaf-gaps. A particular feature of ferns."
+    },
+    {
+        "id": 10140,
+        "term": "dicuph(us) Gk.",
+        "meaning": "doubly curved."
+    },
+    {
+        "id": 10150,
+        "term": "Didymous",
+        "meaning": "occurring in pairs. From Gk. didymos, double."
+    },
+    {
+        "id": 10160,
+        "term": "Didynamous",
+        "meaning": "of stamens when occurring in two pairs of unequal length i.e. when the flower has four stamens only, two of which are longer."
+    },
+    {
+        "id": 10170,
+        "term": "Differentiation",
+        "meaning": "in one sense, the elaboration of structure for specialisation of function through the co-ordination of cells and tissues during development."
+    },
+    {
+        "id": 10180,
+        "term": "difformis L.",
+        "meaning": "of odd or irregular form or appearance."
+    },
+    {
+        "id": 10190,
+        "term": "Diffraction",
+        "meaning": "Of light, the deviation or bending of its rays when encountering some obstacle to its passage in a straight line, e.g, from its passage over a sharp edge or through a narrow slit as in a grating."
+    },
+    {
+        "id": 10200,
+        "term": "Diffuse",
+        "meaning": "of habit when open and loosely spreading."
+    },
+    {
+        "id": 10210,
+        "term": "Diffuse porous",
+        "meaning": "of hardwoods (q.v.) with vessels (pores) arranged in groups or rows, scattered more or less evenly throughout the xylem. Characteristic of eucalypt woods."
+    },
+    {
+        "id": 10220,
+        "term": "Diffusion",
+        "meaning": "the kinetic molecular movement of particles (gas, liquid, solute, and to a much more limited degree solid) uniformly throughout the space (or medium) available from regions of high to regions of low concentration or pressure, at a rate independent of other substances which may be present. See osmosis, permeability."
+    },
+    {
+        "id": 10230,
+        "term": "Diffusion Pressure Deficit (DPD)",
+        "meaning": "of an osmotic system, the deficit between osmotic pressure and turgor pressure (q.v.). For a plant cell, when DPD is zero, the tendency of water to diffuse within or from the cell also is at zero."
+    },
+    {
+        "id": 10240,
+        "term": "Digitate",
+        "meaning": "in general, arising from an axis like fingers of a hand. See also palmate."
+    },
+    {
+        "id": 10250,
+        "term": "Dilated",
+        "meaning": "expanding as a flattened surface."
+    },
+    {
+        "id": 10260,
+        "term": "Dimerous",
+        "meaning": "of two parts."
+    },
+    {
+        "id": 10270,
+        "term": "Dimorphic",
+        "meaning": "of two forms similar in kind but dissimilar in shape or structure. Dimorphism: the production of dimorphic forms."
+    },
+    {
+        "id": 10280,
+        "term": "d(e)ino(s) Gk.",
+        "meaning": "as in dinoflagellata, formidable; stimulating wonder."
+    },
+    {
+        "id": 10290,
+        "term": "Dioecious",
+        "meaning": "of a species with some members bearing male reproductive parts only, others bearing female parts only, hence requiring for its perpetuation the proximity of two plants of different sex."
+    },
+    {
+        "id": 10300,
+        "term": "dios Gk.",
+        "meaning": "as in diospyros, divine."
+    },
+    {
+        "id": 10310,
+        "term": "Diplobiontic",
+        "meaning": "of an individual when its life-history is passed in two distinctly different morphological forms, i.e. the sexual and asexual stages are morphologically different."
+    },
+    {
+        "id": 10320,
+        "term": "Diploid",
+        "meaning": "with two complete sets of chromosomes, each set contributed by each of the two gametes (of the haploid condition) essential normally in the formation of the zygote and the organism arising from it. Expressed symbolically as 2n. See also meiosis, mitosis, alternation of generations."
+    },
+    {
+        "id": 10330,
+        "term": "Diploid gametophyte",
+        "meaning": "a phase of apomixis (q.v.) in which mitotic division within an ovule (see apospory, diplospory) forms directly a gametophyte with unreduced chromosome number."
+    },
+    {
+        "id": 10340,
+        "term": "diplo(s) Gk.",
+        "meaning": "as in diploid, diplopeltis, double, twofold."
+    },
+    {
+        "id": 10350,
+        "term": "Diplospory",
+        "meaning": "the formation of a diploid gametophyte from a sporogenous cell of an ovule with meiotic division either omitted or modified so that pairing and reduction of chromosomes do not occur."
+    },
+    {
+        "id": 10360,
+        "term": "Diplostemonous",
+        "meaning": "of an androecium when its stamens are double the number of petals or sepals."
+    },
+    {
+        "id": 10370,
+        "term": "di(s) Gk.",
+        "meaning": "as in dipterous, two (hence two-winged)."
+    },
+    {
+        "id": 10380,
+        "term": "dis- L.",
+        "meaning": "as in dissect, dissociation, apart, asunder."
+    },
+    {
+        "id": 10390,
+        "term": "disciss(um) L.",
+        "meaning": "split apart."
+    },
+    {
+        "id": 10400,
+        "term": "Disc floret",
+        "meaning": "of certain Compositae, e.g. Brachycome, Calotis, Olearia, one of the group of outer florets of the head, usually tubular and distinct from the outer (peripheral) ray florets."
+    },
+    {
+        "id": 10410,
+        "term": "Discolorous",
+        "meaning": "of varying or different colour."
+    },
+    {
+        "id": 10420,
+        "term": "disc(os) Gk.",
+        "meaning": "as in discoid, a disc (hence flat and round)."
+    },
+    {
+        "id": 10430,
+        "term": "Disease",
+        "meaning": "a condition adversely affecting the normal functioning of an organism."
+    },
+    {
+        "id": 10440,
+        "term": "Disinfectant",
+        "meaning": "a substance lethal to pathogens."
+    },
+    {
+        "id": 10450,
+        "term": "Disjunct",
+        "meaning": "discontinuous, e.g. of a species with a natural distribution broken by regional gaps (usually wide) hence of geographically isolated occurrences."
+    },
+    {
+        "id": 10460,
+        "term": "dispar L.",
+        "meaning": "as in disparate, unlike."
+    },
+    {
+        "id": 10470,
+        "term": "Dissemination",
+        "meaning": "dispersal of reproductive structures, disseminules or diaspores (e.g. spores, seed, fruit, vegetative parts) chiefly through the agencies of gravity, wind, water, animal)."
+    },
+    {
+        "id": 10480,
+        "term": "Dissepiment",
+        "meaning": "a partition or cross-wall (septum). Of an ovary, a septum formed by an infolding of adjacent carpel walls; of a fruit, a septum formed by an ingrowth of a suture."
+    },
+    {
+        "id": 10490,
+        "term": "Dissimilation",
+        "meaning": "the oxidation of compounds synthesised by assimilation (or anabolism) through respiration and fermentation (i.e. catabolism)."
+    },
+    {
+        "id": 10500,
+        "term": "dissit(us)",
+        "meaning": "as in dissitiflora, to scatter (hence flowers not in compact inflorescences."
+    },
+    {
+        "id": 10510,
+        "term": "Dissociation",
+        "meaning": "of electrolytes, their conversion to ions. See ionisation."
+    },
+    {
+        "id": 10520,
+        "term": "Distal",
+        "meaning": "farthest away from the point of reference."
+    },
+    {
+        "id": 10530,
+        "term": "Distichous",
+        "meaning": "arranged in two ranks, as leaves on opposite sides of a stem and in the same vertical plane."
+    },
+    {
+        "id": 10540,
+        "term": "Distillation",
+        "meaning": "of a liquid, the conversion of its physical state to a vapour and its reconversion (as a distillate) by condensation. See also sublimate."
+    },
+    {
+        "id": 10550,
+        "term": "Distinct",
+        "meaning": "of similar parts not joined to one another."
+    },
+    {
+        "id": 10560,
+        "term": "Distyly",
+        "meaning": "heterostyly (q.v.) when flowers of a species are of two forms, long and short styled. See Pin and Thrum."
+    },
+    {
+        "id": 10570,
+        "term": "diuris",
+        "meaning": "(from dis, separating, and -oura, a tall) hence reterring to the tall-like lobes of the labellum."
+    },
+    {
+        "id": 10580,
+        "term": "Diurnal",
+        "meaning": "relative to the alternation of daylight and darkness. Of flowers when opening only during the daylight."
+    },
+    {
+        "id": 10590,
+        "term": "Divaricate",
+        "meaning": "forked, widely divergent."
+    },
+    {
+        "id": 10600,
+        "term": "Divergent",
+        "meaning": "spreading apart"
+    },
+    {
+        "id": 10610,
+        "term": "divers(us) L.",
+        "meaning": "as in diversifolia, variable, more than one kind."
+    },
+    {
+        "id": 10620,
+        "term": "dives L.",
+        "meaning": "in plentiful number."
+    },
+    {
+        "id": 10630,
+        "term": "Division",
+        "meaning": "as a category, the highest level of the plant kingdom. As a taxonomic group, one uniting classes. In nomenclature, no fixed rules apply to the division although the International Code recommends that the name be compounded from characters indicating its pattern, preferably styled from the Greek language, and that the suffix -phyta be attached to all groups except the fungi where -mycota is preferred. For sub-divisions, the suffixes recommendea are -phytina and (for fungi) -mycotina.\n\nIn earlier classifications divisional groups were thallophytes, bryophytes, gymnosperms, and angiosperms but these have lost some significance in the light of better-known relationships. Representative of current concepts is the classification of A. Cronquist (Bot. Rev. 26:4, 1960). Here, two sub-kingdoms proposed, Thallophyta and Embryophyta. Divisions of Thallophyta are Schizophyta (see bacterium), Rhodophyta, Chlorophyta, Euglenophyta, Pyrrophyta, Chrysophyta, Phaeophyta (see alga), and Fungi.  The common ancestor of the thallophytes is believed the bacterium. For the Embryophyta, divisions are Bryophyta (see bryophyte), Psilophyta (see psilopsid), Lepidophyta (see lycopsid), Calamophyta (see sphenopsid), Filicophyta (see fern), Coniferophyta (see gymnosperm), Cycadophyta (see cycad), Anthophyta (see angiosperm). This major group is believed ultimately derived from the thallophytes through the green algae. The psilophytes are considered ancestral or close to the ancestral line of vascular plants."
+    },
+    {
+        "id": 10640,
+        "term": "DNA",
+        "meaning": "the nucleic acid (q.v.) desoxyribose."
+    },
+    {
+        "id": 10650,
+        "term": "Dolabrate",
+        "meaning": "axe or hatchet-shaped. From L. dolabra."
+    },
+    {
+        "id": 10660,
+        "term": "dolichos Gk.",
+        "meaning": "long."
+    },
+    {
+        "id": 10670,
+        "term": "Dolioform",
+        "meaning": "barrel-shaped. From L. dolium."
+    },
+    {
+        "id": 10680,
+        "term": "Dominance",
+        "meaning": "(i) of inheritance, the condition when a hybrid shows, for some character, a greater resemblance to one parent. The gene for this character occurs as an allelic pair, a dominant contributed by the parent resembled, a recessive contributed by the other parent.\n\n\n(ii) of ecology, the condition when a component (the dominant) exerts a leading influence in a particular community or stratum by its frequency and life-form."
+    },
+    {
+        "id": 10690,
+        "term": "dorato(s) Gk.",
+        "meaning": "as in doratoxylon, a spear."
+    },
+    {
+        "id": 10700,
+        "term": "Dormancy",
+        "meaning": "temporary suppression of growth which may be of advantage in surviving ultimately unfavourable conditions. May be of seasonal nature, as the dormant period of buds, or due to the prescence or absence of a growth factor, as of seed when influenced by a need for light or darkness, specific temperature, or after-ripening, or by possession of a coat impermeable to water. Suppression may be of positional nature, as buds when lateral or adventitious and inhibited by active growth of a terminal or leading bud."
+    },
+    {
+        "id": 10710,
+        "term": "doron Gk.",
+        "meaning": "as in melliodora, a gift (hence a gift of honey)."
+    },
+    {
+        "id": 10720,
+        "term": "dors(um) L.",
+        "meaning": "as in dorsal, dorsiventral, the back."
+    },
+    {
+        "id": 10730,
+        "term": "Dorsal",
+        "meaning": "of a surface remote from its axis, as the undersurface of a leaf. cf. ventral."
+    },
+    {
+        "id": 10740,
+        "term": "Dorsifixed",
+        "meaning": "of an anther when its filament is attached on the dorsal surface."
+    },
+    {
+        "id": 10750,
+        "term": "Dorsiventral",
+        "meaning": "with dorsal and ventral sides structurally different."
+    },
+    {
+        "id": 10760,
+        "term": "dory(s) Gk.",
+        "meaning": "as in doryanthes, a spear."
+    },
+    {
+        "id": 10770,
+        "term": "draco(n) Gk.",
+        "meaning": "as in dracocephalus, a dragon. dracain(a), as in dracaena, a female dragon."
+    },
+    {
+        "id": 10780,
+        "term": "Drepanium",
+        "meaning": "see under cyme."
+    },
+    {
+        "id": 10790,
+        "term": "drepan(os) Gk.",
+        "meaning": "as in drepanophylla, sickle-shaped, falcate, drepanoid."
+    },
+    {
+        "id": 10800,
+        "term": "drimy(s) Gk.",
+        "meaning": "as in drimys, acrid, pungent."
+    },
+    {
+        "id": 10810,
+        "term": "dromo(s) Gk.",
+        "meaning": "as in acrodromous, catadromous, a course."
+    },
+    {
+        "id": 10820,
+        "term": "dros(os) Gk.",
+        "meaning": "as in drosanthemum, drosera, dew."
+    },
+    {
+        "id": 10830,
+        "term": "Drupe",
+        "meaning": "a succulent fruit composed of an outer fleshy layer and an inner stony or hard layer of pericarp, enclosing (usually) a single seed. See also tryma, stone fruit."
+    },
+    {
+        "id": 10840,
+        "term": "Dry farming",
+        "meaning": "the techniques of agriculture applied to conditions of limited water availability, i.e. limited rainfall and no irrigation. Such techniques are designed to conserve for the growing season moisture which has been brought to the ground by rainfall."
+    },
+    {
+        "id": 10850,
+        "term": "Dry fruit",
+        "meaning": "see achenial fruit, capsule, schizocarp."
+    },
+    {
+        "id": 10860,
+        "term": "drym(ys) Gk.",
+        "meaning": "as in drymaria, a forest."
+    },
+    {
+        "id": 10870,
+        "term": "Dry rot",
+        "meaning": "the decay of dry timber by the fungus Merulius lacrymans (a basidiomycete), moisture necessary for its growth being brought from a ground-source through water-conducting hyphae, in addition to that produced by its respiration."
+    },
+    {
+        "id": 10880,
+        "term": "Dry weight",
+        "meaning": "of plant material, the weight after treatment designed to remove the content of moisture, e.g. by drying at a specific temperature for a specific period of time."
+    },
+    {
+        "id": 10890,
+        "term": "dubi(us) L.",
+        "meaning": "of uncertain affinity."
+    },
+    {
+        "id": 10900,
+        "term": "Ductile",
+        "meaning": "of a substance which may be drawn or spun out."
+    },
+    {
+        "id": 10910,
+        "term": "dulcis L.",
+        "meaning": "sweet, pleasant."
+    },
+    {
+        "id": 10920,
+        "term": "Dumose",
+        "meaning": "of bushy habit. From L. dumosus, bushy."
+    },
+    {
+        "id": 10930,
+        "term": "Dune",
+        "meaning": "a ridge of wind-drifted sand, characteristic in shape, capable of movement as such. Usually a feature of flat, open land especially of the beach or desert."
+    },
+    {
+        "id": 10940,
+        "term": "Duplex",
+        "meaning": "two-fold, double."
+    },
+    {
+        "id": 10950,
+        "term": "Duplicate",
+        "meaning": "doubled, in pairs, duplex."
+    },
+    {
+        "id": 10960,
+        "term": "Duramen",
+        "meaning": "the heartwood (q.v.) of a tree."
+    },
+    {
+        "id": 10970,
+        "term": "Dynamic",
+        "meaning": "relative to motion. cf. static."
+    },
+    {
+        "id": 10980,
+        "term": "dys- Gk.",
+        "meaning": "as in dystrophic, mis-; contrary to (hence nutritionally below optimum)."
+    },
+    {
+        "id": 10990,
+        "term": "e-",
+        "meaning": "as in ebracteate, enucleate, estrophiolate, without; not having."
+    },
+    {
+        "id": 11000,
+        "term": "e.g. exempli gratia:",
+        "meaning": "for example."
+    },
+    {
+        "id": 11010,
+        "term": "ec- Gk.",
+        "meaning": "as in ecdemic, out; out of (hence not native)."
+    },
+    {
+        "id": 11020,
+        "term": "Ecad",
+        "meaning": "see ecotype."
+    },
+    {
+        "id": 11030,
+        "term": "Echinate",
+        "meaning": "of a surface when marked by long and sharp, spine-like projections. From Gk. echinos, a sea-urchin; a hedgehog. Echinulate: the diminutive condition."
+    },
+    {
+        "id": 11040,
+        "term": "eco-:",
+        "meaning": "as in ecodeme, ecology, a habitat. From Gk. oikos, a home."
+    },
+    {
+        "id": 11050,
+        "term": "Ecodeme",
+        "meaning": "see under deme."
+    },
+    {
+        "id": 11060,
+        "term": "Ecology",
+        "meaning": "the science concerning the relationship between organisms and environment, autecology when the relationship of the individual alone is con-sidered, synecology when the relationship concerns communities and their structure, development, and causes of distribution. See also phytogeography."
+    },
+    {
+        "id": 11070,
+        "term": "Economic botany",
+        "meaning": "the science concerning plants both useful and harmful to man (or potentially so) from aspects of their chemistry, botany, utilisation, commerce, origin and distribution."
+    },
+    {
+        "id": 11080,
+        "term": "Ecophene",
+        "meaning": "see ecotype."
+    },
+    {
+        "id": 11090,
+        "term": "Ecospecies",
+        "meaning": "a group of ecotypes which, although interfertile, either do not cross with other ecospecies or produce progeny with reduced vigour. Approximates the taxonomic species."
+    },
+    {
+        "id": 11100,
+        "term": "Ecosystem",
+        "meaning": "a biotic system maintained by the balance of organic life with its environment."
+    },
+    {
+        "id": 11110,
+        "term": "Ecotone",
+        "meaning": "a transition zone, or marginal area, between two plant communities."
+    },
+    {
+        "id": 11120,
+        "term": "Ecotype",
+        "meaning": "a group of plants essentially of the same genetic constitution with members (ecads) differing in appearance and reproductive vigour due to the influences of their varying environments."
+    },
+    {
+        "id": 11130,
+        "term": "ecto- Gk.",
+        "meaning": "as in ectotropic, outside, external (hence curving outwardly)."
+    },
+    {
+        "id": 11140,
+        "term": "Ectophytic",
+        "meaning": "living on the surace of a plant."
+    },
+    {
+        "id": 11150,
+        "term": "Ectotrophic",
+        "meaning": "in general, feeding from an external source. See also mycorrhiza."
+    },
+    {
+        "id": 11160,
+        "term": "Edaphic",
+        "meaning": "relative to the influence of soil or substratum, e.g. on plant growth."
+    },
+    {
+        "id": 11170,
+        "term": "Edaphon",
+        "meaning": "the flora and fauna of a soil."
+    },
+    {
+        "id": 11180,
+        "term": "edule, edulis L.",
+        "meaning": "edible"
+    },
+    {
+        "id": 11190,
+        "term": "ef- (before f) L.",
+        "meaning": "as in effluent, ex-, away from."
+    },
+    {
+        "id": 11200,
+        "term": "Efflorescence",
+        "meaning": "of a hydrated salt, the loss of water (of crystallisation) to the atmosphere when its vapour pressure is greater than that of water vapour contained by the atmosphere."
+    },
+    {
+        "id": 11210,
+        "term": "Egg, Egg cell",
+        "meaning": "the female gamete, haploid, fusing (as a nucleus) with a male gamete to form a diploid zygote. "
+    },
+    {
+        "id": 11220,
+        "term": "elach(os) Gk.",
+        "meaning": "as in elachanthus, small."
+    },
+    {
+        "id": 11230,
+        "term": "elaio(n) Gk.",
+        "meaning": "as in elaioplast, oil."
+    },
+    {
+        "id": 11240,
+        "term": "Elaioplast",
+        "meaning": "a leucoplast (q.v.) secreting an oil."
+    },
+    {
+        "id": 11250,
+        "term": "elaeodes",
+        "meaning": "epithet, olive-like."
+    },
+    {
+        "id": 11260,
+        "term": "Elastic",
+        "meaning": "reversibly extensible, i.e. capable of being stretched but returning to the original state. cf. plastic."
+    },
+    {
+        "id": 11270,
+        "term": "elatior L.",
+        "meaning": "comparative of elatus: of tall stature."
+    },
+    {
+        "id": 11280,
+        "term": "Electroluminescence",
+        "meaning": "the emission of light from electrical energy discharged through excitation of electrons within a molecular structure. 'cold' light."
+    },
+    {
+        "id": 11290,
+        "term": "Electrolysis",
+        "meaning": "the dissociation of an electrolyte by the passage of an electric current between two electrodes, a positively charged anode and a negatively. charged cathode, the anions (-ve) of the electrolyte being liberated at the anode, the cations (+ve) at the cathode. At the electrodes, these ions reform as atoms which may be deposited as solids or liberated as gases. Electrophoresis."
+    },
+    {
+        "id": 11300,
+        "term": "Electrolyte",
+        "meaning": "a substance (e.g. a salt, acid or base) which in solution acts as a conductor of an electric current through its dissociation to ions."
+    },
+    {
+        "id": 11310,
+        "term": "Electron",
+        "meaning": "the negatively-charged, almost mass-less particle of an atom forming, through orbital movement, an outer shell to its nucleus where the proton carries an equal but opposite charge and the neutron no charge."
+    },
+    {
+        "id": 11320,
+        "term": "Electrostatic",
+        "meaning": "relative to the interactions of electric charges."
+    },
+    {
+        "id": 11330,
+        "term": "Element",
+        "meaning": "the simplest (or fundamental) unit of a compound substance or structure able to combine with but not be further reduced to, or by, other substances or structures except by means of a different order or in a different context, e.g. for a chemical element, by means other than by chemical reaction."
+    },
+    {
+        "id": 11340,
+        "term": "eleuthero(s) Gk.",
+        "meaning": "as in eleutherostachys, separated by, not united."
+    },
+    {
+        "id": 11350,
+        "term": "Elliptical",
+        "meaning": "of a flat surface in the shape of an ellipse, i.e. a section of a geometric cone when cut by a plane oblique to the axis. Of a leaf-blade, usually corresponding to one tapered equally at both ends, broadest in the middle, and from 2 to 3 times as long as broad."
+    },
+    {
+        "id": 11360,
+        "term": "Ellipsoid",
+        "meaning": "of a solid (3-dimensional) object elliptical in each rotational plane."
+    },
+    {
+        "id": 11370,
+        "term": "Eluvial",
+        "meaning": "of soils, relative to the horizon where there is accumulation of organic matter but where leaching is prominent. Often used to denote the A horizon."
+    },
+    {
+        "id": 11380,
+        "term": "Eluviation",
+        "meaning": "the leaching of soil solutes."
+    },
+    {
+        "id": 11390,
+        "term": "elytro(n) Gk.",
+        "meaning": "as in elytrophorus, a sheath."
+    },
+    {
+        "id": 11400,
+        "term": "Emarginate",
+        "meaning": "of an apex when sharply, or shallow and broadly, notched."
+    },
+    {
+        "id": 11410,
+        "term": "Emasculation",
+        "meaning": "Of a bisexual flower, the removal (e.g. by hand) of stamens in order to prevent self-fertilisation."
+    },
+    {
+        "id": 11420,
+        "term": "Embryo",
+        "meaning": "the phase of organic development arising normally from a zygote while still within the parent and complete (for embryo plants other than bryophytes) when the development of a root-shoot system leads to ultimate independence as the young (sporophytic) plant. Within a mature seed, the embryo is composed typically of an axis with one or more lateral cotyledons, a terminal bud (plumule of angiosperms) and a root-tip or radicle. See also epicotyl, hypocotyl, suspensor, pro-embryo, and under Division for the 'embryo plants' (Embryophyta). From Gk. embryon."
+    },
+    {
+        "id": 11430,
+        "term": "Embryogeny",
+        "meaning": "the growth and development of an embryo."
+    },
+    {
+        "id": 11440,
+        "term": "Embryology",
+        "meaning": "the study of sexuality, fertilisation processes, the development of embryos and their significance to taxonomy."
+    },
+    {
+        "id": 11450,
+        "term": "Embryo sac",
+        "meaning": "the female gametophyte of angiosperms, a tissue containing an egg developed from a megaspore and into which nuclei from a pollen-tube are discharged at a fertilisation."
+    },
+    {
+        "id": 11460,
+        "term": "Emergence",
+        "meaning": "of anatomy, an outgrowth formed from a cortex or epidermis, e.g. a prickle."
+    },
+    {
+        "id": 11470,
+        "term": "Emersed",
+        "meaning": "rising from the surface Emergent."
+    },
+    {
+        "id": 11480,
+        "term": "Emulsifying agent",
+        "meaning": "a stabilising agent for an emulsion, with the property of decreasing the surface tension at the interface of the oil and water phases, e.g. a detergent (q.v.), sodium alginate (see under alga), certain gums."
+    },
+    {
+        "id": 11490,
+        "term": "Emulsion",
+        "meaning": "a two or more phased system of liquids, e.g. oil in water, or water in oil."
+    },
+    {
+        "id": 11500,
+        "term": "en- Gk.",
+        "meaning": "as in encapsuled, in, on, into or against (hence invested by a gelatinous envelope or capsule."
+    },
+    {
+        "id": 11510,
+        "term": "enchyl-",
+        "meaning": "as in enchylaena, succulent. From Gk. en; chylos, juice."
+    },
+    {
+        "id": 11520,
         "term": "Endemic",
         "meaning": "Confined in natural distribution to a localised geographic region, applied strictly when maximum distribution has not been attained.  cf. relic."
     },
     {
-        "id": 19840,
+        "id": 11530,
+        "term": "Endergonic",
+        "meaning": "of a process when requiring free (utilisable) energy for its progress, as all processes of biosynthesis. cf. exergonic."
+    },
+    {
+        "id": 11540,
+        "term": "endo(n) Gk.",
+        "meaning": "as in endophytic, inside, within (hence living within a plant)."
+    },
+    {
+        "id": 11550,
+        "term": "Endobiotic",
+        "meaning": "living within the tissues or cells of another organism."
+    },
+    {
+        "id": 11560,
+        "term": "Endocarp",
+        "meaning": "the innermost layer of pericarp."
+    },
+    {
+        "id": 11570,
+        "term": "Endodermis",
+        "meaning": "a uniseriate layer of cells separating the stele and cortex of primary growth, the cells with thin walls incorporating in parts a wax-like substance impervious to water (see Casparian strip) or, especially of monocots, with walls secondarily thickened by suberin or (later) cellulose in addition, the passage of water in this case being controlled largely by isolated thin-walled cells (passage cells) unthickened except for the Casparian strip."
+    },
+    {
+        "id": 11580,
+        "term": "Endogamy",
+        "meaning": "inbreeding. Cross-fertilisation by individuals very closely related, the effect being an increase in homozygosity. cf. exogamy."
+    },
+    {
+        "id": 11590,
+        "term": "Endogenous",
+        "meaning": "originating from a source well below the superficial layer of a structure. cf. exogenous."
+    },
+    {
+        "id": 11600,
+        "term": "Endolithic",
+        "meaning": "within rock. Of organisms when able to penetrate and live within the cracks and fissures of rocks, e.g. certain algae, bacteria)."
+    },
+    {
+        "id": 11610,
+        "term": "Endoplasmic reticulum",
+        "meaning": "an extension of the double-layered membrane of a nucleus throughout cytoplasm either as folded sheets of membranes or as narrow tubes, and within which ribosomes (q.v.) are localised."
+    },
+    {
+        "id": 11620,
+        "term": "Endoreic",
+        "meaning": "with internal flow. Applied to drainage basins with no connection to the sea."
+    },
+    {
+        "id": 11630,
+        "term": "Endosmosis",
+        "meaning": "of a cell, the intake of water from an external region of lower concentration, with the wall acting as an osmotic membrane."
+    },
+    {
+        "id": 11640,
+        "term": "Endosperm",
+        "meaning": "a layer of cells formed initially within an embryo sac by fusion of the second male nucleus with the two polar nuclei at fertilisation. A storage region, chiefly of starches and oils, providing nutrient for the developing embryo. See also aleurone, ruminate."
+    },
+    {
+        "id": 11650,
+        "term": "Endospore",
+        "meaning": "of a bacterium, a highly resistant resting-body formed in single number within the cell and with a capacity for dormancy usually for many years."
+    },
+    {
+        "id": 11660,
+        "term": "Endothermic",
+        "meaning": "of a process or reaction occurring with (and dependent on) the intake of heat from the surround. cf. exothermic."
+    },
+    {
+        "id": 11670,
+        "term": "Endotrophic",
+        "meaning": "deriving nutrient from within, e.g. of a mycorrhizal fungus."
+    },
+    {
+        "id": 11680,
+        "term": "Endozoic",
+        "meaning": "living within an animal."
+    },
+    {
+        "id": 11690,
+        "term": "Endozoochory",
+        "meaning": "the dispersal of seed or spores through ingestion by animals and eventual freeing."
+    },
+    {
+        "id": 11700,
+        "term": "Energy",
+        "meaning": "a concept of a fundamental property inseparable from matter (directly proportional to its mass) except under such conditions as radioactivity and atomic fission, known from its manifestation, 'the capacity to do work'. Its unit is the quantum, the most familiar being the photon of light energy, although some prominence now is given by the physicists to quanta of the atomic nucleus, lepton pairs and mesons. From Gk. energos, working.\n\nEnergy is conceived as the motivating force of all changes of physical and chemical states, all movement, all changes in equilibrium, and is transformable constant. Familiar examples of its forms are kinetic, potential, mechanical, electrical, electromagnetic, radioactive, atomic, thermal, radiant, chemical, etc. Within the atom or molecule, forms of energy are electronic (given by the orbital movement of the electron), vibrational, rotational, the transference of energy here believed to occur only in multiples of quanta. For any mass, energy is considered as of two components, one (free energy) available for conversion to some other form, and unavailable or bound energy measured as entropy. Heat as an accompaniment of all energy conversions represents a dissipation of free energy and an increase in entropy.\n\nThe capacity to conserve free energy from chemical reaction and to re-utilise it is a criterion of the living organism. In living proceses, the biosynthesis of organic compounds with high potential chemical energy from inorganic substances of low energy is fundamental to growth and development. The physical environment provides the raw materials, sunlight the energy source. Through photosynthesis, radiant energy is converted to chemical energy and through respiration this energy is released to be held and controlled by the organic phosphates. The flow of energy has a single pathway to virtually all forms of life."
+    },
+    {
+        "id": 11710,
+        "term": "-ennial",
+        "meaning": "as in biennial, yearly (hence of two years duration). From L. annus."
+    },
+    {
+        "id": 11720,
+        "term": "Ensate, Ensiform",
+        "meaning": "sword-like, i.e. of a structure when linear, rigid, and pointed. From L. ensis, a sword."
+    },
+    {
+        "id": 11730,
+        "term": "-ensis",
+        "meaning": "as in australiensis, belonging to; originating from."
+    },
+    {
+        "id": 11740,
+        "term": "enter(on) Gk.",
+        "meaning": "as in enteric, an intestine."
+    },
+    {
+        "id": 11750,
+        "term": "Entire",
+        "meaning": "of a margin free from irregularity."
+    },
+    {
+        "id": 11760,
+        "term": "ento(s) Gk.",
+        "meaning": "as in entozoic, within (hence living within an animal)."
+    },
+    {
+        "id": 11770,
+        "term": "entomo(n) Gk.",
+        "meaning": "as in entomogenous, an insect (hence originating from, or living in or on, insects)."
+    },
+    {
+        "id": 11780,
+        "term": "Entomophilous",
+        "meaning": "pollinating through the agency of insects, chiefly beetles (pollination then termed cantharophily), honeybees (mellitophily), carrion and dung flies (saprophily), hawkmoths (sphingophily)."
+    },
+    {
+        "id": 11790,
+        "term": "Environment",
+        "meaning": "of an organism, the collective conditions influencing its growth and development both internal (the relationships of its co-ordinated parts) and external (e.g. Atmospheric temperature, light, humidity, precipitation, composition, wind-movement; soil (or substrate) temperature, moisture, nutrient status, reaction, pH, aeration, physical properties)."
+    },
+    {
+        "id": 11800,
+        "term": "Enzyme",
+        "meaning": "a protein (simple or combined) acting, through catalysis, as a precursor of metabolic reactions, i.e. an organic biocatalyst. Frequently linked with an activating agent essential for its functioning, either a prosthetic group which may include a heavy metal (e.g. iron, magnesium, marganese, zinc) or a vitamin (e.g. thiamine, riboflavin), or the activating agent may be a co-enzyme (q.v.). The complete enzyme is the holo-enzyme when compound, the protein part is the apo-enzyme. Although of high molecular weight, the molecule of an enzyme is small enough to form in water a non-turbid electrolytic solution. As a rule, it has a specificity for a particular group of compounds or a single compound or its part, and can be denatured by heat, irradiation, ultra-violet light etc. In general it requires for its most efficient functioning a specific temperature and pH range.\n\nThe group name of the enzyme usually is compounded from the type of reaction it catalyses (the substance of the reaction being the substrate) suffixed by -ase. Some 650 or more enzymes already have been isolated from plants of which the few following are representative.\n\n\n1. Assimilation.\n\nCarbohydrases (substrate a carbohydrate). e.g. fructosidases (invertase), sucrose to glucose; amylases, starch to maltose and fructose; cellulase, cellulose to cellobiose; nucleosidases, nucleotides to pyrimidine or purine base and ribose.\n\nProteases (peptides and proteins to amino acids and peptides respectively, or (transaminases) transamination of amino acids. e.g. pepsin, protein to polypeptide; papain (protein and polypeptides to amino acids (the animal-derived rennet and trypsin have similar effect)\n\nEsterases (substrate an ester, catalysing e.g. to acid and alcohol) lipases fats to fatty acid and glycerol; phosphorylases, hexose sugars and inorganic phosphates to esters of sugar phosphates.\n\nAmidases (substrate an amido-compound) e.g. urease, urea to ammonia and carbon dioxide.\n\n\n2. Dissimilation.\n\nDehydrogenases, oxidation by removal of hydrogen; carboxylases, e.g. pyruvic acid to acetaldehyde and carbon dioxide. See also co-enzyme, cytochrome.\n\n\nEnzymes extracted from higher plants of economic value include the proteolytic papain from papaya fruit (of Carica papaya) used in control processes of various industries (treatment of hides, tenderising of meat etc.) and clinically (e.g. as an aid to digestive processes); the starch-splitting amylase of malt usually obtained from the germinated seed of barley used in the brewing and distilling industries. Various amylases, proteases, cellulases, pectinases are derived by the fermentation industries from fungi (e.g. the molds and yeasts) and bacteria (e.g. the lactic streptococci) and have a wide range of applications to industrial and clinical fields. From Gk. en, in; zyme, a ferment."
+    },
+    {
+        "id": 11810,
+        "term": "Epacrid",
+        "meaning": "a member of the family Epacridaceae, characteristically a hard-textured shrub of heath communities with ericoid, parallel veined leaves. While temperate Australia is a focal centre for the family, its 23 genera of 350 species in addition are dispersed in New Zealand, islands of the Pacific, and the Andean region. Included (in the Australian flora) are Astroloma, Andersonia, Brachyloma, Epacris, Leucopogon, Styphelia, Woollsia etc. The name is derived from Gk. epi, upon; acros. the top, hence found on hilltops."
+    },
+    {
+        "id": 11820,
+        "term": "Epeirogenetic",
+        "meaning": "relative to the major geological changes in the earth's crust (diastrophism) which result in the formation of continents through vertical movement"
+    },
+    {
+        "id": 11830,
+        "term": "Epharmonic",
+        "meaning": "relative to morphological adaptation (or modification in form) to a specific ecologic condition. Epharmosis: the process of acquiring such adaptation. See also convergence."
+    },
+    {
+        "id": 11840,
+        "term": "ephemer(os) Gk.",
+        "meaning": "as in ephemeral, short-lived."
+    },
+    {
+        "id": 11850,
+        "term": "epi- Gk.",
+        "meaning": "as in epibiotic, upon; over (hence living on the surface of another organism). ep- is used before a vowel or h."
+    },
+    {
+        "id": 11860,
+        "term": "Epicalyx",
+        "meaning": "an involucre, usually formed by a whorl of bracts, at the base of a calyx and seemingly forming a second calyx. A feature of certain members of Rosaceae, Malvaceae, and Sterculiaceae."
+    },
+    {
+        "id": 11870,
+        "term": "Epicarp",
+        "meaning": "the outer layer of a pericarp. Also exocarp."
+    },
+    {
+        "id": 11880,
+        "term": "Epicotyl",
+        "meaning": "of an embryo, the part above the cotyledon/s which is the ultimate stem. In monocots and conifers, often limited before germination to a minute meristematic apical region. In dicots, the part within the terminal bud or plumule."
+    },
+    {
+        "id": 11890,
+        "term": "Epidemic",
+        "meaning": "of disease when of temporary general and intense severity. Also used as the noun."
+    },
+    {
+        "id": 11900,
+        "term": "Epidemiology",
+        "meaning": "a phase of pathology concerning the factors leading to the causes and spread of infectious diseases."
+    },
+    {
+        "id": 11910,
+        "term": "Epidermis",
+        "meaning": "the outermost tissue of primary growth, commonly uniseriate the cells with a large central vacuole and cytoplasm restricted to a peripheral lining of the wall which is thickened and cutinised. Forms a continuous covering (except for stomates and lenticels when present) to the primary plant body and its parts (flowers, fruit, seed) and is extended from a root to root-hairs. Its function primarily concerns control of water and gas exchange with the atmosphere, and protection from mechanical abrasion."
+    },
+    {
+        "id": 11920,
+        "term": "Epigeal",
+        "meaning": "of germination when the cotyledons carry the seed-coat above the surface of the soil: characteristic of dicots and conifers. cf. hypogeal."
+    },
+    {
+        "id": 11930,
+        "term": "Epigenous",
+        "meaning": "developing on a surface; originating from a superficial tissue."
+    },
+    {
+        "id": 11940,
+        "term": "Epigynous",
+        "meaning": "of floral parts (viz. stamens) when arising from the rim of a floral tube, the tube adnate with an ovary inferior by virtue of its position below other floral parts."
+    },
+    {
+        "id": 11950,
+        "term": "Epigyny",
+        "meaning": "the epigynous condition, e.g. of Myrtaceae and Umbelliferae where both corolla and stamens are epigynous: of Caprifoliaceae and Rubiaceae where the corolla is epigynous and the stamens epipetalous (although by position necessarily epigynous)"
+    },
+    {
+        "id": 11960,
+        "term": "Epilithic",
+        "meaning": "living on the surface of a rock, as a lichen or moss."
+    },
+    {
+        "id": 11970,
+        "term": "Epinastic",
+        "meaning": "of a leaf when dorsi-ventral, relative to the more rapid growth of the upper surface which causes a downward curvature."
+    },
+    {
+        "id": 11980,
+        "term": "Epipetalous",
+        "meaning": "borne on, or arising from, petals, as the stamens of many epacrids. Epipetaly: the fusion of stamens with petals."
+    },
+    {
+        "id": 11990,
+        "term": "Epiphyll",
+        "meaning": "a plant epiphytic on a leaf, e.g. an alga, lichen, or moss."
+    },
+    {
+        "id": 12000,
+        "term": "Epiphyllous",
+        "meaning": "in the nature of or relative to an epiphyll."
+    },
+    {
+        "id": 12010,
+        "term": "Epiphyte",
+        "meaning": "a plant nutritionally independent but completely dependent on another plant for mechanical support (e.g. an epiphyll) or of higher plants (e.g. ferns, bromeliads, orchids) where no soil connection is made (cf. liana) Of higher plants, the development of means to conserve water is usual, e.g. the humus-collecting brown paper-like sterile fronds of the Elk or Stag Horns, the 'cistern' formed by the water-absorbing leaves of the bromeliads, the pseudo-bulbs of orchids or, in general, the cutinisation of the epidermis. It is probable that the host contributes some nutrient from decay of its superficial tissues where contact is made. The habit (epiphytism) may be obligate, or of periodic nature (then hemi-epiphytism), e.g. certain figs (Ficus spp.) of the rainforest begin as epiphytes but in time develop a liana-like root-system which eventually reaches the ground to become fully absorptive, a phase usually lethal to its host, virtually 'strangled' to death by this root-system."
+    },
+    {
+        "id": 12020,
+        "term": "Epiphytic",
+        "meaning": "in the nature of, or relative to, an epiphyte."
+    },
+    {
+        "id": 12030,
+        "term": "Epithet",
+        "meaning": "of nomenclature, the qualifying name (trivial) given to a generic name to form the name of a species, or to the name of a species to form the name of a sub-species or variety, so forming a binomial or trinomial.\n\nThe epithet may be an adjective (e.g. albus) which must agree in gender with the generic name, an adjective in the form of the present participle of a verb (e.g. accedens, praecox), a noun in the possessive (benthamii), or a noun in apposition (i.e. explaining further), e.g. saxicola, fruticetorum, globulus where here the gender is not necessarily in agreement with the generic name.\n\nWhile as a general rule the specific epithet agrees in gender with the generic name, there are exceptions, e.g. the ending of Eucalyptus is masculine but since it is customary to treat the names of trees as feminine, the epithets when adjectives are feminine, e.g. E. crebra, E. alba, E. marginata, etc. Conforming to the general rule are: (masculine) Juncus maritimus, Eriochilus scaber, Eriostemon trachyphyllus; (feminine) Acacia alata, Gunniopsis quadrifida, Monotaxis grandiflora; (neuter) Hypocalymma cordifolium, Brachysema aphyllum, Polycarpon tetraphyllum.\n\nWhen the epithet is a personal name and used as an adjective, the endings -ianus, -iana, -ianum, in agreement with the gender of the generic name, may be used (e.g. dielsianus, muelleriana, andrewsianum) or when the name ends in a vowel the i is omitted (e.g. mckiena). Used as a substantive, ii is the suffix when the name ends in a consonant (e.g. banksii, maidenii), i when ending in a vowel, y, or -er (e.g. moorei, blakelyi, muelleri) except when the vowel is an a when -e is the suffix (e.g. campderae). The name when feminine and substantive takes a feminine suffix (e.g. tindalae, beatricis)."
+    },
+    {
+        "id": 12040,
+        "term": "Epizoic",
+        "meaning": "living on the surface of an animal either non-parasitically (e.g. as an alga on a hydroid) or parasitically (eg. as a dermatophyte)."
+    },
+    {
+        "id": 12050,
+        "term": "Epizoochory",
+        "meaning": "the dispersal of seed or spore through its carriage on the surface of an animal."
+    },
+    {
+        "id": 12060,
+        "term": "equi-",
+        "meaning": "as in equilateral, equal (hence equal-sided). From L.: aequo."
+    },
+    {
+        "id": 12070,
+        "term": "equin(us) L.",
+        "meaning": "of a horse."
+    },
+    {
+        "id": 12080,
+        "term": "Equitant",
+        "meaning": "of parts (e.g. leaves) in series when folded sharply along their central lines (e.g. mid-ribs) in the fashion of a saddle and each enclosing the succeeding part (or part opposite in addition) or the axis."
+    },
+    {
+        "id": 12090,
+        "term": "Eremaean",
+        "meaning": "relative to the arid zone of the continent."
+    },
+    {
+        "id": 12100,
+        "term": "Eremaean Zone",
+        "meaning": "of Australia, a region extending roughly from the western coast at latitudes 22-26°S. to longitude 145°E. where it merges with the temperate inland. In the north limited by the tropical coast and inland, and in south meeting the coast between longitudes 125-135°E."
+    },
+    {
+        "id": 12110,
+        "term": "eremo(s) Gk.",
+        "meaning": "as in eremophila, desert, wasteland."
+    },
+    {
+        "id": 12120,
+        "term": "erg(on) Gk.",
+        "meaning": "as in erg, energy, work."
+    },
+    {
+        "id": 12130,
+        "term": "Ergot",
+        "meaning": "a general name given to certain pathogenic fung of Ascomycetes which invade the florets of grasses and form within, at the disruption of the ovary, a dark-coloured sclerotium, e.g. Claviceps paspali specifically attacking paspalums. The sclerotium (also called an ergot), or over-wintering stage of the fungus, eventually falls to the ground to remain until late spring or early summer when it germinates. Germination involves the formation of several pin-like structures (stromata) within the head of which are a number of cavities, each cavity containing an ascogonium and an antheridium. With breakdown of the intervening walls, fusion of female and male nuclei developed within these structures ensues, and this is followed by development of a fruiting-body, perithecium, with certain cells (asci) forming ascospores. The ascospores may be carried by wind or other means to young florets whose infection promotes a flow of a sugary liquid ('honey dew') giving the characteristic stickiness to the inflorescences of the grass. The 'honeydew' contains innumerable summer spores (conidia) which may be dispersed by physical contact; its ingestion by cattle leads to a paralyzing disease.\n\nErgot of pharmacology, derived initially from sclerotia formed in rye infected by Claviceps purpurea, contains a number of peptide-like alkaloids chiefly of the groups ergotamine and ergotoxin and derivatives of lysergic acid - these have clinical uses, especially in gynaecology."
+    },
+    {
+        "id": 12140,
+        "term": "erici-",
+        "meaning": "as in ericifolia, of the heath Erica (Ericaceae)."
+    },
+    {
+        "id": 12150,
+        "term": "Ericoid",
+        "meaning": "stiff, slender, and (often) sharp-pointed. From a likeness to the heath plants of Erica (or their Australian counterparts, the epacrids of a closely related family) where often needle-like and xeromorphic by the development of a strongly cuticularised upper epidermis."
+    },
+    {
+        "id": 12160,
+        "term": "erin(os) Gk.",
+        "meaning": "as in erinaceus, a hedgehog (hence prickly)."
+    },
+    {
+        "id": 12170,
+        "term": "erio(n) Gk.",
+        "meaning": "as in eriostemon, wool."
+    },
+    {
+        "id": 12180,
+        "term": "ermine(us) L.",
+        "meaning": "white."
+    },
+    {
+        "id": 12190,
+        "term": "erodi(os) Gk.",
+        "meaning": "as in erodium, a heron."
+    },
+    {
+        "id": 12200,
+        "term": "Erosion",
+        "meaning": "in general, the wearing-away by physical abrasion, e.g. the breaking down of rock to soil by the abrasive forces of wind and water. Of soil, its continuous removal by one or more of the eroding forces wind: removal of surface soil when vegetation is insufficient to obstruct wind flow (applies particularly to open lands with sandy soils), Water: gradual and uniform removal of surface soil by run-off (sheet erosion), or the forming of channels and ultimately gullies by the combined effect of heavy rain and run-off in the uneven removal of surface soil (gully erosion), Gravity: movement of soil under its influence (soil creep), Anthropogenic: acceleration of normal (natural) erosion by over-cultivation or over-grazing, removal or destruction of the original vegetative cover without replacement, so promoting the erosive action of wind and water and destruction of the physical and biotic properties of the soil."
+    },
+    {
+        "id": 12210,
+        "term": "erubesc(o) L.",
+        "meaning": "to approach in colour a rich red or rose."
+    },
+    {
+        "id": 12220,
+        "term": "eruent(us) L.",
+        "meaning": "of blood-red colour."
+    },
+    {
+        "id": 12230,
+        "term": "erumpo L.",
+        "meaning": "as in erumpent, to burst forth."
+    },
+    {
+        "id": 12240,
+        "term": "erythr(os) Gk.",
+        "meaning": "as in erythrocorys, deep red."
+    },
+    {
+        "id": 12250,
+        "term": "Escarpment",
+        "meaning": "an abrupt, cliff-like slope terminating an elevated land of low relief, e.g. the Darling Escarpment which marks an edge of the Great Plateau as it falls to the coastal plain. In a general sense, also scarp."
+    },
+    {
+        "id": 12260,
+        "term": "-escen(s) L.",
+        "meaning": "as in erubescens, erubescent, approaching the nature or property of. The suffix -escence forms the noun, e.g. erubescence."
+    },
+    {
+        "id": 12270,
+        "term": "esculent(us) L.",
+        "meaning": "favourable for human consumption; esculent."
+    },
+    
+    
+    
+    
+    
+    {
+        "id": 12280,
+        "term": "Essential Element",
+        "meaning": "of plants, one of the chemical elements required as a raw material and biocatalyst for biosynthesis. For terrestrial higher plants carbon, hydrogen, oxygen (derived either from the atmosphere as carbon dioxide and water or from the soil as a carbonate and water), nitrogen from the soil through nitrification), potassium, calcium, magnesium, iron phosphorus, sulphur (from the soil as rock-derived minerals and their salts) - these are the macro-elements. In addition, although not required for all plant growth but known to be essential for some plants, the minor or oligo-elements (so-called because their requirement is in relatively low concentration) copper, zinc, manganese, molybdenum, boron, chlorine, sodium, cobalt, vanadium."
+    },
+    {
+        "id": 12290,
+        "term": "Essential Oil",
+        "meaning": "a volatile (ethereal), aromatic, usually liquid secretion of certain plants stored in various regions, sometimes emulsified within vacuoles or cytoplasm but more generally within cavities (oil glands) formed by the break-down or separation of cells, occasionally in semi-solid form in combination with resins as an oleo-resin. Such oil-bearing plants occur throughout the kingdom, often with a particular concentration in certain families (e.g. of angiosperms, Compositae, Labiatae, Lauraceae, Myrtaceae, Rutaceae, Cruciferae etc.). The significance of the oil to the plant is unknown but evidence suggests it may form a reserve pool from which certain components may be withdrawn as required, e.g. by freeing through catalytic reactions. Other suggestions include that it is a by-product without further concern to metabolism, that it has allelopathic or bacteriostatic qualities of advantage to survival of the plant storing it, that it may help to regulate water-loss by modification of the immediate atmosphere external to the plant through its vapour pressure. Very little is known of its nature in vivo, however.\n\nChemically, the essential oil is a complex mixture with principal constituents referable chiefly to the terpenic group but its manner of synthesis is not known. The oil may be of different nature e.g. the cyanogenic alkyl isothiocyanate occurring with glycosides of mustard oils (e.g. of the seeds of Brassica nigra, source of the mustard of commerce), or a sulphur derivative such as methyl sulphide of the oil of onion and alkyl sulphide of oil of garlic. When of the terpenic group may be a hydrocarbon (e.g. the terpenes cymene, limonene, phellandrene, pinene) or an oxidation product of a hydrocarbon, e.g. an alcohol (citronellol, eudesmol, geraniol, menthol, nerolidol, terpineol) or an ester of the alcohol with an aliphatic or aromatic acid (e.g. geranyl acetate), an aldehyde (e.g. citronellal, citral), a ketone (eg. thujone), a phenol (e.g. thymol, eugenol), or an ether (e.g. cineole.).\n\nThe commerce of essential oils had its origin in the Orient (chiefly Egypt, Persia, India), was probably introduced to Europe in the 14th century, and by 1600 methods of extraction had been developed for, e.g. oils of turpentine, juniper, rosemary, spike lavender, sandalwood. While the principal method of extraction is by distillation with steam, other methods are extraction by solvent e.g. lard or tallow (the enfleurage of the precious flower oil industry) and extraction with alcohol to form a concrete, or a volatile organic solvent e.g. petroleum ether), or expression by pressure methods. Steam has the advantage that it is selective for the oil but the disadvantages that nothing is known of the possible changes during the destructive process and that high-boiling fractions may not 'come-over'. Much of the demand has come from the perfumer (the term 'essential' having come from the use of the oil as an essential of compounded perfumes) and the manufacturer of soaps, disinfectants and detergents; some oils are in demand as flavouring agents or as various pharmaceutical preparations.\n\nWhile the Australian flora is rich in oil-bearing species (e.g. of Eucalyptus, Melaleuca, Leptospermum, Backhousia, Baeckea, Boronia, Eriostemon, Santalum, Eremophila etc.) very few of their oils have reached or maintained commercial interest. These few oils, their principal uses and sources including the following steam-distilled from foliage with the exception of sandalwood (distilled from the the heartwood).\n\n\n(1) as constituents of disinfectants, deodorants, detergents, or solvents (industrial oils)./n/nPiperitone (also used in synthesis of thymol and menthol) and phellandrene: chemical forms of Eucalyptus radiata and E. dives (respectively the Narrow-leaved and Broad-leaved Peppermints).\n\n\n(ii) as blending or fortifying agents of perfumes, or perfumed soaps and other pharmaceuticals (perfumery oils).\n\ncitral: Eucalyptus staigeriana (the Lemon-scented Ironbark of tropical Queensland), Leptospermum petersonii (Lemon-scented Tea Tree, L. 'citratum'), Leptospermum liversidgei. Production of these is now very limited. /n/ncitronellal: Eucalyptus citriodora (Lemon-scented Gum), Lemon-scented Tea Tree.\n\ncymene, pinene, terpinene: Melaleuca alternifolia (Narrow-leaved Paperbark).\n\ngeranyl acetate: Eucalyptus macarthuri (Paday River Box).\n\nlinalool, nerolidol: chemical forms of Melaleuca quinquenervia (Broad-leaved Paperbark).\n\nterpenic alcohols: Santalum spicatum (Australian Sandalwooa).\n\n\n(iii)as antiseptics, medicinal soaps. inhalents, embrocations (medicinal oils).\n\ncineole (British Pharmacopoeia requirement a minimum of 70 percent: chemical forms of Eucalyptus radiata and E. dives, E. fruticetorum (Blue Mallee)/n/nPrescribed cineole content maximum 20 percent./n/npinene, terpinene, cymene: Melaleuca alternifolia (source of Tea Tree Oil).\n\nmethyl eugenol: Melaleuca bracteata (Black Tea Tree).\n\n\nClosely related species may vary widely in the constitution of their oils and quantitative differences are common among members of the same species. It is usual for progeny to retain the chemical identity of their parents (hence oil composition has a genetic basis). Research in Australia has concentrated on the selection and establishment of 'elite' trees of known (and desired) characteristics but progress in establishing plantations has been extremely slow. More desirable than present methods is the scientifically-based cropping of lavender at Lilydale, Tasmania which has been developed by expert management to a soundly successful industry. Additional to the problem of competition with oils produced overseas on a more economic basis (the sources including plantations from seed imported of Australian native oil-bearers), the substitution of natural products by chemo-synthesis further reduces the prospects of the industry at the present level."
+    },
+    {
+        "id": 12300,
+        "term": "Esterification",
+        "meaning": "in simplest sense, the reaction of an acid with an alcohol to form, by elimination of water, an ester. The ester is either a volatile liquid or solid of low melting point, usually water-insoluble but alcohol-soluble, frequently possessing a distinctive odour and flavour, e.g. acetic acid and ethyl alcohol, under appropriate conditions, yield ethyl acetate and water."
+    },
+    {
+        "id": 12310,
+        "term": "Estrophiolate",
+        "meaning": "of a seed when without a strophiole (q.v.)."
+    },
+    {
+        "id": 12320,
+        "term": "Estuarine",
+        "meaning": "relative to the mouth of a tidal river where it widens out to meet the tide, i.e. of an estuary. Applied also to communities of, or near, an estuary."
+    },
+    {
+        "id": 12330,
+        "term": "Ether",
+        "meaning": "a water-insoluble, alcohol-soluble, usually aromatic liquid of the form R-O-R' where R and R' are identical or different radicals either alkyl when derived by loss of a hydrogen atom from an aliphatic hydrocarbon (see under ethyl) or aryl when derived by loss of a hydrogen atom from a hydrocarbon of the benzene series."
+    },
+    {
+        "id": 12340,
+        "term": "Ethnobotany",
+        "meaning": "a phase of botany concerned with the history of utilisation of plants by primitive man for his food, clothing, building, medicine, and religious rites. From Gk. ethnos, a nation."
+    },
+    {
+        "id": 12350,
+        "term": "Ethyl",
+        "meaning": "a radical of the group CH₃ CH₂- (or C₂H₅-), e.g. of ethanol or ethyl alcohol C₂H₅OH. The reaction of ethanol under appropriate conditions with sulphuric acid leads to the formation of diethyl ether (C₂H₅OH + HOC₂H₅ = С₂Н₅OC₂H₅ + H₂O)."
+    },
+    {
+        "id": 12360,
+        "term": "Etiolation",
+        "meaning": "an abnormal condition of green plants due to a severe reduction in chlorophyll, leading to maximum growth with minimum differentiation. Evidenced by marked elongation of the shoot which appears white (blanched) or yellow from the unmasking of carotenoids within the chloroplasts. Proto-chlorophyll, a chemically-related precursor of chlorophyll, is formed in small amounts and may be converted to chlorophyll when optimum growth conditions (e.g. optimum light) are restored."
+    },
+    {
+        "id": 12370,
+        "term": "Etiology",
+        "meaning": "the phase of pathology concerning the causes of disease."
+    },
+    {
+        "id": 12380,
+        "term": "-etum, -etorum L.",
+        "meaning": "as in arboretum, pinetum, populetum, fruticetorum, a habitat or place of growth, a community."
+    },
+    {
+        "id": 12390,
+        "term": "eu- Gk.",
+        "meaning": "as in eucalyptus, well, full, true (hence of the operculum 'well' covering the unopened flower."
+    },
+    {
+        "id": 12400,
+        "term": "Eucarpic",
+        "meaning": "of a fungus when its reproductive structure arises from part of the vegetative thallus."
+    },
+    {
+        "id": 12410,
+        "term": "Eucaryotic",
+        "meaning": "of a cell when possessing a definite nucleus, a feature marking the eucaryote which, of plants, is sharply divided from the procaryote, a bacterium or blue-green alga."
+    },
+    {
+        "id": 12420,
+        "term": "Euphyllous",
+        "meaning": "of a leaf when fully functioning as such."
+    },
+    {
+        "id": 12430,
+        "term": "Euploidy",
+        "meaning": "of polyploidy (q.v.) when the chromosome number is an exact multiple of that basic to the species. cf. aneuploidy."
+    },
+    {
+        "id": 12440,
+        "term": "eury(s) Gk.",
+        "meaning": "as in euryops, broad, wide."
+    },
+    {
+        "id": 12450,
+        "term": "Eurytopic",
+        "meaning": "widely distributed geographically."
+    },
+    {
+        "id": 12460,
+        "term": "Eustatic",
+        "meaning": "relative to movements of sea-level due either to changes in the volumes of the oceans or to changes in the capacity of their basins, the rise or fall being experienced uniformly over the world."
+    },
+    {
+        "id": 12470,
+        "term": "Evanescent",
+        "meaning": "of very brief duration. Ephemeral."
+    },
+    {
+        "id": 12480,
+        "term": "Evapotranspiration",
+        "meaning": "the loss to the atmosphere of moisture from both the soil (evaporation) and its vegetative cover (transpiration)."
+    },
+    {
+        "id": 12490,
+        "term": "Evergreen",
+        "meaning": "of foliage when replenished for a short period each year and then held for a year or more, or replenished at periods throughout the year. cf. deciduous."
+    },
+    {
+        "id": 12500,
+        "term": "Everted",
+        "meaning": "of a structure when turned inside out."
+    },
+    {
+        "id": 12510,
+        "term": "evolvo L.",
+        "meaning": "as in evolvulus, to roll out; to spread; to open."
+    },
+    {
+        "id": 12520,
+        "term": "Evolute",
+        "meaning": "unfolded; turned back."
+    },
+    {
+        "id": 12530,
+        "term": "Evolution",
+        "meaning": "see organic evolution."
+    },
+    {
+        "id": 12540,
+        "term": "ex- L., Gk.",
+        "meaning": "free from; away from; out."
+    },
+    {
+        "id": 12550,
+        "term": "exaltat(us) L.",
+        "meaning": "of very tall stature."
+    },
+    {
+        "id": 12560,
+        "term": "Exarate",
+        "meaning": "furrowed or grooved."
+    },
+    {
+        "id": 12570,
+        "term": "excedens L.",
+        "meaning": "reaching above,"
+    },
+    {
+        "id": 12580,
+        "term": "excels(us) L.",
+        "meaning": "tall, lofty."
+    },
+    {
+        "id": 12590,
+        "term": "excelsior L.",
+        "meaning": "the comparative of excelsus."
+    },
+    {
+        "id": 12600,
+        "term": "Excentric",
+        "meaning": "positioned to one side of a central point. Eccentric."
+    },
+    {
+        "id": 12610,
+        "term": "exceco Gk.",
+        "meaning": "as in excoecaria, to blind (hence a reference to a reputed feature of the sap)."
+    },
+    {
+        "id": 12620,
+        "term": "Excurrent",
+        "meaning": "extending beyond, or projecting, as a mid-rib when extended beyond the apex of a mucronate leaf. Of a stem or trunk, extending to the summit, i.e. beyond its lateral branches as shown by the Bunya and Norfolk Island Pines. cf. deliquescent."
+    },
+    {
+        "id": 12630,
+        "term": "Exergonic",
+        "meaning": "of a process or reaction progressing with the liberation of free energy, as in respiration and fermentation. cf. endergonic."
+    },
+    {
+        "id": 12640,
+        "term": "exigu(us) L.",
+        "meaning": "small and narrow; exiguous."
+    },
+    {
+        "id": 12650,
+        "term": "eximi(us) L.",
+        "meaning": "of optimum size or beauty."
+    },
+    {
+        "id": 12660,
+        "term": "exo- Gk.",
+        "meaning": "as in exocarp, outer; outside (hence the outer layer of pericarp)."
+    },
+    {
+        "id": 12670,
+        "term": "Exogamy",
+        "meaning": "outbreeding, i.e. cross-fertilisation by individuals related but of different lineage, the effect being an increase in heterozygosity. cf. endogamy."
+    },
+    {
+        "id": 12680,
+        "term": "Exogenous",
+        "meaning": "originating from a source superficial to the parent body."
+    },
+    {
+        "id": 12690,
+        "term": "Exoreic",
+        "meaning": "with external flow. Relative to drainage basins which carry drainage to the sea."
+    },
+    {
+        "id": 12700,
+        "term": "Exosmosis",
+        "meaning": "of a cell, the withdrawal of water to an external region of higher concentration, with the wall acting as the osmotic membrane. See also plasmolysis. cf. endosmosis."
+    },
+    {
+        "id": 12710,
+        "term": "Exothermic",
+        "meaning": "of a process or reaction when proceeding with the freeing of heat. Of a compound when formed with the evolution of heat. cf. endothermic."
+    },
+    {
+        "id": 12720,
+        "term": "Exotic",
+        "meaning": "not native, usually implying an unacclimatised introduction by human agency."
+    },
+    {
+        "id": 12730,
+        "term": "Explant",
+        "meaning": "a tissue culture, i.e. a group of cells growing independently of the parent from where taken."
+    },
+    {
+        "id": 12740,
+        "term": "Exposure",
+        "meaning": "of ecology, the degree of exposure to weather, especially to drying winds and direct sunlight."
+    },
+    {
+        "id": 12750,
+        "term": "Exserted",
+        "meaning": "projected beyond, as stamens or style when longer than the tube of the corolla, or of a capsule (e.g. of a eucalypt) when the valves project above the rim of the receptacle."
+    },
+    {
+        "id": 12760,
+        "term": "Exsiccate",
+        "meaning": "free from moisture. Exsiccatum: a dried herbarium specimen."
+    },
+    {
+        "id": 12770,
+        "term": "Extine",
+        "meaning": "(also exine) see pollen-grain."
+    },
+    {
+        "id": 12780,
+        "term": "extra- L.",
+        "meaning": "as in extra-cellular, outside, beyond."
+    },
+    {
+        "id": 12790,
+        "term": "Extra-axillary",
+        "meaning": "arising above an axil."
+    },
+    {
+        "id": 12800,
+        "term": "Extractive",
+        "meaning": "in general, a substance derived by some method of extraction. e.g. by a solvent. In the economic sense, usually indicates an extracted plant product as, e.g. alkaloid, gum, kino, phenol, resin, saponin, tannin, fixed oil, volatile oil."
+    },
+    {
+        "id": 12810,
+        "term": "Extrapolation",
+        "meaning": "the insertion of a measure outside, but based on a series of parameters. cf. interpolation."
+    },
+    {
+        "id": 12820,
+        "term": "Extrorse",
+        "meaning": "of an anther when dehiscent towards the petals or circumference of the flower."
+    },
+    {
+        "id": 12830,
+        "term": "Extrinsic",
+        "meaning": "of a factor when influencing or acting from the outside. cf. intrinsic."
+    },
+    {
+        "id": 12840,
+        "term": "Exudate",
+        "meaning": "a substance (e.g. kino, gum, resin, moisture) forced through superficial tissues."
+    },
+    {
+        "id": 12850,
+        "term": "Eye",
+        "meaning": "a bud, especially when used in propagation from a tuber (e.g. of potato) or as a cutting."
+    },
+    {
+        "id": 12860,
+        "term": "F1",
+        "meaning": "the first filial generation, i.e. progeny from the cross-fertilisation of the P1 or first parental generation."
+    },
+    {
+        "id": 12870,
+        "term": "F2",
+        "meaning": "the second filial generation, i.e. progeny from the crossing or selfing of the F1."
+    },
+    {
+        "id": 12880,
+        "term": "-facient L.",
+        "meaning": "as in tumefacient, making (hence tumour-producing)."
+    },
+    {
+        "id": 12890,
+        "term": "Factor",
+        "meaning": "of a process, a condition which influences its progress, limiting when deficient to such a degree that the rate of progress will be increased with increase of the factor, inhibiting or retarding where, by its presence, the rate of progress is depressed or inhibited. Each factor may exert an influence over one or more factors, this interaction of factors generally the case in biological processes. Of genetics, a gene."
+    },
+    {
+        "id": 12900,
         "term": "Facultative",
         "meaning": "Not obligate, especially as to nutrition or habit, i.e. able to adapt from one mode to another as conditions demand.  Of a parasite when able to be saprophytic, or a dwarf not genetically fixed as such and able to respond with increased vigour to favourable growth conditions, or a cell functional under both aerobic and anaerobic conditions."
+    },
+    {
+        "id": 12910,
+        "term": "Fahrenheit",
+        "meaning": "of a system of temperature recordings where the melting point of pure ice is taken as 32 degrees (32°F.) and the boiling point of water as 212°F. In conversion to centigrade (q.v.) scale (1°F. = 9/5°C.) apply formula °C. = (5/9)(°F - 32)."
+    },
+    {
+        "id": 12920,
+        "term": "falc(is) L.",
+        "meaning": "as in falciform, a sickle."
+    },
+    {
+        "id": 12930,
+        "term": "Falcate",
+        "meaning": "of a lamina when flat and curved (like a reapers hook, or sickle)."
+    },
+    {
+        "id": 12940,
+        "term": "falco(nem) Gk.",
+        "meaning": "as in falcorostrum, a falcon hence beaked, the beak like a falcon's)."
+    },
+    {
+        "id": 12950,
+        "term": "fallax L.",
+        "meaning": "false."
+    },
+    {
+        "id": 12960,
+        "term": "Fallow",
+        "meaning": "arable land left uncropped either for restoration or with the object of destroying weed growth."
+    },
+    {
+        "id": 12970,
+        "term": "Family",
+        "meaning": "of taxonomy, a category with level below an order but above a genus.\n\nAs a taxonomic group, one uniting genera assessed as having monophyletic origin (i.e. derived from a common ancestral stock) or from a single genus when no other genera are believed related. The highest taxonomic group to which the rules of priority and typification apply by the International Code, the name is compounded from the name of a genus of the family, suffixed with -acae (e.g. Myrtaceae, from Myrtus, Proteaceae from Protea etc.) except for a few sanctioned by long usage for which may be substituted a conventionally-formed name. e.g. Arecaceae for Palmae, Poaceae for Gramineae, Lamiaceae for Labiatae, Apiaceae for Umbelliferae, Asteraceae for Compositae. Grammatically a plural adjective used as a noun, the name of a family implies a plural sense, e.g. the Arecaceae include over two hundred genera of palms. cf. the family, Arecacede, includes ...\n\nSubordinate units of the family are sub-family (ending in oideae), tribe (-eae), sub-tribe (-inae), as in Myrtaceae - Leptospermoideae - Leptospermeae - Eucalyptinae indicating the family, sub-family, tribe and sub-tribe for Eucalyptus."
+    },
+    {
+        "id": 12980,
+        "term": "Family, Australian-confined",
+        "meaning": "of the angiosperms, the following are restricted to the Commonwealth. Monotypic: Austrobaileyaceae, Akaniaceae, Brunoniaceae, Cephalotaceae, Dysphaniaceae, Irvingbaileyaceae. More than one genus:- Cartonemataceae, Gyrostemonaceae, Petermanniaceae, Tremandraceae."
+    },
+    {
+        "id": 12990,
+        "term": "farina L.",
+        "meaning": "meal, flour, starch."
+    },
+    {
+        "id": 13000,
+        "term": "Farinaceous",
+        "meaning": "resembling or with the texture of flour."
+    },
+    {
+        "id": 13010,
+        "term": "Farinose",
+        "meaning": "floury or mealy, or producing a flour or meal."
+    },
+    {
+        "id": 13020,
+        "term": "fascians L.",
+        "meaning": "binding."
+    },
+    {
+        "id": 13030,
+        "term": "Fasciate",
+        "meaning": "united or massed laterally."
+    },
+    {
+        "id": 13040,
+        "term": "Fasciation",
+        "meaning": "abnormal growth of normally cylindrical structures (e.g. stems and roots) to flattened, ribbon or thallus-like structures."
+    },
+    {
+        "id": 13050,
+        "term": "Fascicle",
+        "meaning": "a bunch or cluster. Fasciculate: massed in a fascicle."
+    },
+    {
+        "id": 13060,
+        "term": "fasciculus L.",
+        "meaning": "a small bundle."
+    },
+    {
+        "id": 13070,
+        "term": "Fastigate",
+        "meaning": "of habit when branching is erect and close together, so forming a columnar, conical or pyramidal shape."
+    },
+    {
+        "id": 13080,
+        "term": "Fat",
+        "meaning": "of plants, a water insoluble, non-volatile organic compound of carbon, hydrogen and oxygen (at least when simple) emulsified in cytoplasm, serving as an energy-rich storage product convertible through a complex series of catalytic reactions to a sugar. It has a particular concentration in seed (within the endosperm or embryo) and here appears to be synthesised from translocated sugars.\n\nChemically an ester, a triglyceride, formed by the reaction of a fatty acid with an alcohol (chiefly glycerol). By hydrolysis through the enzyme group of lipases, may be reduced to the component fatty acids and glycerol.\n\nA fat at normal temperature is either liquid (then a fixed oil) or solid (or semi-solid). When liquid, it may dry on exposure to air rapidly, or very slowly, dependent on its oxygen intake, or it may remain a liquid. Rapidly drying oils form elastic, thin films and, as drying oils, have applications to the paint, lacquer, and varnish industries. The slowly-drying (or semi-drying) oils, the non-drying oils, and the solid fats have uses as food materials, illuminants, soaps, and candles. By special chemical techniques, the physical nature of the fat may be modified, e.g. the non-drying castor oil when dehydrated may be used as a drying oil in addition to sundry applications to leather, linoleum, oilcloth, textiles, etc., and as a hydraulic fluid. Fixed oils may be converted to solid fats by hydrogenation (addition of hydrogen) of their fatty acids, e.g. coconut, cottonseed, peanut, soybean, safflower oils when hydrogenated are used as basic components of margarines.\n\nExamples of fats familiar to Australian commerce include: Drying oils — candlenut (Aleurites moluccana), tung (Aleurites fordii), linseed or flax (Linum usitatissimum), soybean (Glycine max), safflower (Catharmus tinctorius)./n/nSemi-drying oils - corn (Zea mais), cottonseed (Goddypium spp.), sesame (Sesamum indicum), sunflower (Helianthus annuus).\n\nNon-drying oils - olive (Olea europaea), peanut (Arachis hypogaea).\n\nSolid fats - coconut (Cocos nucifera), palm oil (Elaeis guineensis). The two solid fats are derived from the dehusked fruit (of coconut, copra), the others from seed."
+    },
+    {
+        "id": 13090,
+        "term": "Fatty acid",
+        "meaning": "an organic acid, usually aliphatic, with a carboxyl group able to link with the hydroxyl group of an alcohol to form, with the elimination of water, a fat as the ester. Ranges from water-soluble liquids in lower members (e.g. formic H.COOH, acetic CH₃COOH, the simplest) to water-insoluble solids soluble in organic solvents of the highest members with increasing number of carbon atoms (e.g. stearic C₁₈H₃₆O₂). When conforming to the formula CₙH₂ₙO₃, (as stearic, and butyric C₄H₈O₂), the fatty acid is termed saturated (others are lauric, myristic, palmitic, valeric). When with fewer hydrogen atoms (e.g. oleic, C₁₈H₃₄O₂), the acids are unsaturated (others are linoleic, linolenic)."
+    },
+    {
+        "id": 13100,
+        "term": "Fault",
+        "meaning": "of geology, a fracture in the earth's crust which results in a displacement of rocks."
+    },
+    {
+        "id": 13110,
+        "term": "fauna",
+        "meaning": "the species of animals within a community or defined geographic area."
+    },
+    {
+        "id": 13120,
+        "term": "Faveolate",
+        "meaning": "with a structure resembling a honey-comb."
+    },
+    {
+        "id": 13130,
+        "term": "favus L.",
+        "meaning": "a honeycomb."
+    },
+    {
+        "id": 13140,
+        "term": "Feldmark",
+        "meaning": "a community of sub-glacial regions (i.e. up to the limit of perpetual ice and snow) characterised by an incomplete (open) coverage with a dominance of mosses and lichens, and perennial evergreen dwarf shrubs together with rosette-reduced herbs. For the Australian Alps, dwarf angiosperms forming associations include Epacris petrophila with Veronica densifolia, Coprosma pumila with Colobanthus benthamianus. Also fjaeldmark or fellfield."
+    },
+    {
+        "id": 13150,
+        "term": "Feral",
+        "meaning": "relative to a plant or animal reverted from domestication to the wild."
+    },
+    {
+        "id": 13160,
+        "term": "Fermentation",
+        "meaning": "the catalytic oxidation of organic compounds to form organic or inorganic compounds through the action of enzymes (ferments) contributed especially by metabolically-active fungi and bacteria. The end product is determined both by the nature of the substrate and by the presence or absence of oxygen utilisable as the oxidising agent, e.g. the manipulation and control of the conditions leading to the fermentation of agricultural crops and molasses (a syrupy extract from raw sugar) may produce ethyl or butyl alcohols, acetone, citric or other organic acid, abscorbic acid, riboflavin or other vitamin, lactic acid, or the stock food, ensilage or silage, of high protein value. In the production of soft fibres (jute, hemp), the fermentative action of soil-dwelling bacteria is controlled for the separation of the softer tissues from the bark and fibres (the process of retting). Carbon dioxide may, or may not, be formed. e.g. from yeast, this end-product is used in the baking industry for 'raising the dough', bụt in wine-making where alcohol is the desired end-product, its formation is suppressed except for the sparkling wines.\n\nIn one sense, respiration when anaerobic, a process less efficient than aerobic respiration because of the relatively large amounts of substrate required to produce an equivalent energy output, but undergone by both plant and animal cells when under certain conditions. According to environment, microorganisms when facultative anaerobes may adopt either mode. See also alcohol, cereal, bacterium, fungus, respiration."
+    },
+    {
+        "id": 13170,
+        "term": "Fermentative",
+        "meaning": "relative to the process or processes of fermentation."
+    },
+    {
+        "id": 13180,
+        "term": "Fern",
+        "meaning": "a terrestrial, epiphytic, or aquatic pteridophyte (q.v.), usually perennial, with true roots and leaves, and stem a rhizome creeping or ascending, sometimes arborescent but without a cambium. A representative of a group much diversified and the largest and most complex of the spore-bearing vascular plants. Primarily of warm regions with moist or shaded habitats, in Australia of greatest abundance in the rain forests of the tropical north-east. Its group is considered as at class level (Filicopsida of some authors, Pteridopsida of others), the families listed here are intended to be representative of the broad characters expressed but in view of the currently-active revision, are not inclusive of all ferns occurring in the Commonwealth.\n\nThe initial separation is based on the origin of the sporangium, whether from a single cell (then leptosporangiate) or from a group of cells (eusporangiate). The first group is much the larger, the eusporangiate ferns making up two orders, Ophioglossales and Marattiales, each with a single family. The 'adder's tongue' family Ophioglossaceae almost exclusively is of terrestrial, perennial herbs with short, unbranched, fleshy rhizomes, thick and fleshy roots and single or few leaves. Of its three genera, Australia is represented by Ophioglossum and Botrychium. The leaf is made up by a petiole, a sterile frond, and a fertile lateral part or 'spike' simple and linear in Ophioglossum (hence 'adder's tongue') where the sterile lamina is simple and relatively undivided, and in Botrychium (Parsley or Grape Fern) pinnately divided, the sterile lamina pinnately or palmately divided. Sporangia borne by the spike are large (one or two millimetres), thick-walled, marginal, and fused with the spike in Ophioglossum, marginal and terminal, spherical, and borne on short thick stalks in Botrychium (hence 'grape fern'); dehiscence is by a simple transverse slit. The prothalli (gametophytes) are subterranean, tuber-like, usually long-living, always associated with mycorrhiza.\n\nThe second esporangiate group, the Marattiaceae, have a natural occurrence in Australia only in the tropical north. In general appearance, the members approach more the 'typical' ferns and vary from very small to arborescent and among the largest of ferns. In common with the Ophioglossaceae, the stem is fleshy and stipulate (thin and sheathing in the latter family but in Marattiaceae, thick and fleshy and usually bearing dormant buds at the base persistent as the bases of the petioles).  In common with other ferns, there is circinate (uncoiling) development of the leaves, and sporangia are born on the dorsal side of the lamina. Sporangia are large, thick-walled and arranged in definite clusters (sori) along the veins, rarely with a suggestion of a protective enclosure (indusium) but often fused to varying degree in closed structures (syngania). Prothalli are photosynthetic, thalloid structures associated with mycorrhiza, long-living. Two members of the tropical north-east of Queensland are of special note, Angiopteris evecta and Marattia fraxinea. These have large bi- or tri-pinnate leaves (fronds) twelve or more feet long in Angiopteris which, when fallen, leave behind the petiole-bases to form, with the thick fleshy stipules, a capping to the rhizome, the whole forming a mass almost globular and about three or more feet diameter, with thick, fleshy, cord-like roots.\n\nThe leptosporangiate group (Filicales) is considered to have had a relatively modern origin, the first three families, although not closely related, are the most primitive and bridge the gap between the eusporangiate and leptosporangiate groups. Leaves (or more commonly called fronds) are of a petiole (or stipe) which may be articulated to the rhizome, and a lamina which may be simple, pinnately or palmately divided to segments or lobes, or to entire leaflets (primary pinnae and secondary pinnules when pinnate) or compoundly divided (decompound). Sometimes when pinnate there may be a single leaflet only. The venation may be simple or forked, free when the veins meet the margins of the lamina, reticulate or forming a closed system of mesh-like areoles (aeroli). Development of the frond is from a long-persistent apical meristem, it is coiled at the top and unrolls progressively as the lower part matures (i.e. is circinate), phyllotaxy is spiral or alternate. Frequently the one plant may bear fronds of two kinds (is dimorphic) the difference commonly is between the sterile and fertile fronds, e.g. the broad flat brown scale-leaves (nest-leaves) and the forked, erect green fertile fronds of the Stag or Elk Horns of Platycerium. Deciduous buds often are formed on the fronds.\n\nSporangia develop on the margin of the lamina (or lobe or segment of) or on its dorsal surface, i.e. are marginal in the first case and superficial when on the dorsal surface. Usually they form circular, reniform or linear clusters (sori) on a raised part (receptacle) of the lamina which may become elongate or laterally enlarged, located either over a vein ending or along the back of a vein. When sporangia occur over a large part of the dorsal surface (i.e. are superficial) but not limited to sori, they are described as acrostichoid (i.e. resembling Acrostichum) or, when in a series of sori, form a coenosorus. Sporangia are rounded or flattened, sessile or more usually borne on a stalk (pedicel); the wall is a uniseriate layer of cells often with a crest or band (annulus) unspecialised, transverse or oblique, or vertical and then broken by the pedicel. Sometimes a special opening region (a stomium) is formed by the annulus. The function of the annulus is to open the wall for the release of spores or, when highly developed, to actively disperse them. Maturation of the sporangia within the sorus (or on the frond-segment when not in a sorus) may be simultaneous (the condition then simple), progressive on an elongate receptacle (gradate) or not uniform and then mixed. Dehiscence of the sporangium varies from longitudinal to transverse, the spores are either flattened on two sides (bilateral) or on four sides (tetrahedral), often the wall with tuberculate projections. The sorus often is associated with a protective indusium formed from the lamina which may be an upraised fold or ridge cup-shaped or 2-lipped, lateral scale-like structure, an umbrella-like projection from the pedicel, or a reflexing of the lamina margin to form a covering (in this a false indusium).\n\nThe prothallus is usually thalloid, green, monoecious, with the antheridia and archegonia on the lower side, the archegonia on a thickened central cushion or ridge, the antheridia not so localised.\n\nStipules are absent from the rhizome, but flat scales (sometimes clathrate) and hairs, reddish-brown or rusty, often are present.\n\n\nOsmundaceae: (Todea, Osmunda, Leptopteris) Royal Ferns. Terrestrial, with trunk (e.g. the arborescent Todea barbara) or rhizome erect, without scales. Fronds pinnate, large (up to six feet or more in Todea), uniform or dimorphic. Sporangia simple, borne by a short and thick pedicel, not in sori (in Todea superficial along the minor veins, later usually covering the whole of the lower surface of the fertile part of the frond), subglobular, with an annulus no more than a group of thick-walled cells at one end, dehiscing by a deep slit from the apex to the side opposite. Prothallus green, lobed.\n\n\nSchizaeaceae: (e.g. Schizaea, Lygodium). Terrestrial or climbing; rhizome erect or creeping, dichotomously branching, with simple hairs or flattened scales. Fronds simple, dichotomous, bipinnate, or fan-shaped with palmate or pinnate segments, dichotomously veined, with simple hairs or flattened scales. Sporangia large, solitary in 2 to 4 rows, marginal but becoming dorsal by the growth of the lamina segment above and beyond forming a false indusium, sessile or on a lateral segment (sporangiophore), with a cap-like annulus dehiscing by a vertical slit, the annulus with a stomium. Schizaea, a group of small ferns on poor sandy soils, often with a grass-like, sometimes fan-shaped lamina, the petiole wiry. Prothalli of this genus are filamentous, with the gametes being formed in terminal structures on short lateral branches, the archegonia entirely exposed; in other genera the prothallus is thalloid and lobed.\n\n\nGleicheniaceae: (Gleichenia, Sticherus, Dicranopteris). Terrestrial, sometimes xerophytic; rhizome long and creeping, or erect and up to six or more feet high, forked (falsely dichotomous), sparsely hairy or scaled. Fronds large, scrambling and often forming dense clumps or tangled communities, pinnate and falsely dichotomous, hairy or scaled. Sori superficial on unspecialised fronds, usually flattened, rounded and with from one to twelve sporangia borne by a short pedicel, simple in maturation, each sporangium large, broadly pear-shaped, with a complete annulus dehiscing by a longitudinal slit. Sori without an indusium. Prothallus as Osmundaceae.\n\n\nHymenophyllaceae: (e.g. Hymenophyllum, Macroglena, Sphaerocionium). Terrestrial or epiphytic, small, usually in very moist habitats within rainforest. Rhizomes long and creeping, often wiry, sometimes short and thick, hairy. Fronds simple, lobed or divided pinnately or dichotomously, or pinnate usually (except at the veins) of a uniserate layer of cells and almost transparent (hence filmy ferns), without stomata, with or without hairs. Sori marginal, terminal on the ultimate segments of the frond at the tip of a vein which extends into a columnar receptacle, with a tubular, cup-shaped or 2-lipped indusium. Sporangia sessile or on a short pedicel, gradate, with a complete annulus opening by a more or less longitudinal slit. Prothamus thalloid and lobed, filamentous or ribbon-like.\n\n\nCyatheaceae: (e.g. Cyathea, Alsophila). Tree-ferns with erect trunks up to 60 or more feet high, often adventitious roots forming the outerlayer of the trunk. Mostly of rain forest or high rainfall regions, tropical or temperate. Fronds large and palm-like, the lamina decompound, often with chaffy scales. Sori orbicular, superficial, the sporangia on short pedicels, gradate, with a complete annulus dehiscing transversely, with or without an indusium. Prothallus thalloid.\n\nFamilies from Dicksoniaceae to Blechnaceae (once grouped as the Polypodiaceae) have in common: sori with or without a true indusium; sporangia small, borne on slender pedicels; maturation gradate in the first, otherwise mixed; annulus with stomium actively discharging the spores by transverse dehiscence; prothallus thalloid, not lobed, short-lived. There is a frequent occurrence of sterile filaments (paraphyses) within the sporangia, hair-like when simple but developed to umbrella-like, stellate, clathrate or fan-shaped. Spores often with a folded membrane (perispore).\n\n\nDicksoniaceae: (eg. Dicksonia, Culcita. Dennstaedtia). Tree-ferns (e.g. Dicksonia antarctica) with trunk erect and with fronds forming a crown, or not arborescent but terrestrial and with rhizomes usually creeping when erect, the fronds terminal, otherwise scattered. Lamina pinnately divided. Trunk and rhizome covered with simple hairs. Sori marginal; indusium 2-valved.\n\n\nHypolepidaceae: (including the bracken Pteridium esculentum) sometimes included in the Dicksoniaceae differing by the sori being borne on a connecting minor veinlet and covered by both the reflexed margin and an inner indusium.\n\n\nLindsaeaceae: (e.g. Lindsaea). Terrestrial, mainly tropical, with creeping rhizome, sometimes climbing or epiphytic, with a covering of brown scales intermixed with bristle-like scales. Lamina simple, pinnate or pinnately divided, usually with simple hairs. Sori marginal or almost so, terminal on simple veins or or an interconnecting veiniet, sometimes in coenosori, with a true indusium.\n\n\nPteridaceae: (e.g. Pteris). Terrestrial, often in forests. Rhizome erect or creeping, with opaque scales often with a thinner, paler border. Lamina usually pinnately divided. Sori submarginal, in series (coenosori) on a veinlet connecting the vein-ends, covered by a false indusium.\n\n\nSinopteridaceae: (e.g. Cheilanthes). Small terrestrial, usually xerophytic, with tufted or creeping rhizome bearing narrow scales; petioles dark-coloured and glossy. Fronds uniform or dimorphic, the lamina usually small and narrow, decompound. Sori sub-marginal, covered by a false indusium.\n\n\nAdiantaceae: (e.g. Adiantum). Terrestrial usually amongst rocks. Some xerophytic, others of the rain forest. Rhizome erect or creeping, with a covering of bristle-like or woolly hairs, or brown to black opaque scales. Petioles dark-coloured and glossy. Lamina simple or pinnately or palmately divided, with palmate venation, hairy or scaly, often with a waxy powder. Sori marginal, in shallow notches or deep grooves borne on the lower surface of a false indusium. Included are the maidenhairs of Adiantum.\n\n\nVittariaceae: (e.g. Vittaria). Terrestrial, or epiphytic, usually amongst rocks. Rhizome creeping, with clathrate scales. Lamina simple, linear. Sori elongated along the veins, in a false indusium formed by a double margin of the frond, protected when young by paraphyses. Tropical and sub-tropical.\n\n\nDavalliaceae: (eg. Davallia. Rumohra. Nephrolepis, Arthropteris). Terrestrial, climbing, or epiphytic. Rhizome usually fleshy, long and creeping or sometimes short and erect, with a dense covering of brown or black clathrate scales. Lamina simple or pinnately-divided or decompound. Sori marginal, with a true indusium.\n\n\nGrammitidaceae: (e.g. Grammitis). Small to fairly large epiphytes, or small and in rock crevices. Rhizome creeping, usually short, erect or ascending, with glossy brown scales. Lamina simple and narrow, forked, or pinnately divided, hairy. Sori superficial, sometimes immersed in cavities or in deep vertical grooves of the lamina, without an indusium.\n\n\nPolypodiaceae (e.g. Platycerium, Microsorus, Pyrrosia). Mainly epiphytic in rain forest, often large. Rhizome creeping, long or short, with scales. Fronds uniform or dimorphic, the lamina simple, lobed, forked, or pinnate. Sori superficial, ranging from localised to the vein-junctions to covering a section of the lamina, without an indusium. Included is the Elk- or Stag-horn Platycerium bifurcatum, a bracket fern with sterile fronds (scale leaves) forming an enclosure for gravity or wind-drifted moisture-retentive humus.\n\n\nAspidiaceae: (e.g. Polystichum, Lastreopsis, Athyrium). Terrestrial or climbing. Rhizome creeping or erect, with a covering of opaque scales. Fronds uniform or dimorphic, the lamina simple or pinnately divided, decompound or fan-shaped. Sori dorsal, or terminal on the veins of the lamina, rarely without an indusium.\n\n\nThelypteridaceae: (e.g. Cyclosorus). Terrestrial. Rhizome usually creeping sparsely covered by scales with unicellular, usually needle-like, hairs on their margins. Lamina pinnately divided, often with simple, white, needle-like hairs and with round glandular hairs. Sori dorsal on the veins, rarely terminal, with an indusium often with needle-like or glandular hairs.\n\n\nAspleniaceae: (e.g. Asplenium). Terrestrial or epiphytic. Rhizome short, creeping or almost erect, with a covering of clathrate scales. Lamina simple, lobed, or pinnately divided. Sori elongate along the veins, with an indusium likewise elongate. Include the Bird's Nest Fern (Asplenium nidus), a large epiphyte of the rain forest.\n\n\nBlechnaceae: (e.g. Blechnum, Doodia). Terrestrial. Rhizome usually short and erect, creeping or twining, sometimes forming a short trunk, with a covering of usually thick, dark coloured or black scales. Fronds uniform or dimorphic. Lamina simple, lobed, or more frequently pinnately divided. Sori short, usually in a linear series (coenosorus) borne on veins parallel with the mid-vein (costa) of the frond-segments, with an indusium.\n\n\nThe following are the Water-ferns, unique in that spores are formed in special reproductive structures, sporocarps, and are dimorphic, the mega- and micro-spores forming distinct female and male prothalli. They are the heterosporous ferns. The habitat is aquatic (floating) or semi-aquatic (i.e. rooted in mud).\n\n\nMarsileaceae (e.g. Marsilea). Semi-aquatic, lining permanent and non-permanent fresh-water basins. Rhizome slender or thick and woody, creeping and long, with a covering of hairs, forming roots and developing circinate leaves at the nodes. Lamina with a long petiole, in Marsilea (Nardoo) of 2 pairs of opposite obovate leaflets, in other genera filiform or 2-lobed. Sori in special, usually globular or oblong, tough and strongly protective sporocarps sessile or pedunculate on the petiole, solitary or in numbers. Each sorus with an indusium, containing both micro- and mega-sporangia, the former producing numerous microspores, the latter a solitary megapore; annulus either absent or rudimentary. Megaspore germinating to a much reduced prothallus producing a single archegonium.\n\n\nSalviniaceae: (Salvinia). Tropical. Floating. Stem slender, branched, closely covered by 3-whorled leaves, two of which are floating, the third in filamentous segments, hairy, submerged, without roots. Sporocarps in clusters or rows on the submerged leaf-segments. Sorus pedicellate and surrounded by a thin-walled indusium, with either numerous microsporangia or few megasporangia. Megaspore germinating on the surtace, becoming a conspicuous green pro-thallus.\n\n\nAzollaceae: )Azolla). Floating, Stem slender, readily fragmented, overlapped by crowded imbricate leaves which are circinate, alternate in 2 rows, divided into an upper photosynthetic aerial lobe with the symbiotic alga Anabaena on the lower surface, the second lobe submerged and of a uniseriate cell layer; with simple roots. Sori in groups of two to four on the lower lobe of the first leaf of each branch, enclosed by an indusium, larger when with several microsporangia, smaller when with a solitary megasporangium. Megaspore germinating under water, the prothallus formed never fully free from the spore.\n\n\nEconomic: Apart from the oleoresin obtained from the rhizome of Male Fern Dryopteris felix-mas used as a taenicide (i.e. against tapeworm) overseas, the potential of the group at least in pharmacology is not yet realised. Much use has been made of their ornamental wealth, the commerce from which is not insignificant."
+    },
+    {
+        "id": 13190,
+        "term": "fer(o) L.",
+        "meaning": "as in transfer, pomifera, coniferous, to carry, to bear."
+    },
+    {
+        "id": 13200,
+        "term": "Ferruginous",
+        "meaning": "with the colour of rusted iron."
+    },
+    {
+        "id": 13210,
+        "term": "Fertility",
+        "meaning": "of reproduction, the potential for active production of viable spores and gametes.\n\nOf soils, the potential for the supply of available nutrient to plants. Cf. sterility."
+    },
+    {
+        "id": 13220,
+        "term": "Fertilisation",
+        "meaning": "of reproduction, the fusion of reproductive cells to form a zygote. See also embryo sac for angiosperms, pollen tube for angiosperms and gymnosperms, archegonium for gymnosperms, pteridophytes, and bryophytes, antheridium for pteridophytes, bryophytes, fungi, algae.\n\nOf soils, the provision of nutrient additional to that already available for the growth of plants."
+    },
+    {
+        "id": 13230,
+        "term": "Fibre",
+        "meaning": "in general, a strand or filament. As a component of a tissue, one of the two cell-types of sclerenchyma (see also sclereid) found within cortex, phloem and xylem (both primary and secondary) of angiosperms, and usually only secondary growth, occasionally cortex, of gymnosperms. It may be scattered or in groups, when in phloem and cortex may be in separate strands or in cylinders, and in monocots may occur as an ensheathment to a vascular bundle. When in secondary xylem is a wood-fibre typically with a much thickened wall to the almost complete occlusion of the lumen, or a fibre-tracheid when resembling a fibre of phloem, the wall very thick and with very small pits.\n\nAs an item of commerce, the term bast fibre refers to a fibre strand when originating from a primary or secondary phloem, a cortex, or the periphery of a vascular bundle (usually then a vascular bundle with associated fibres from the leaf of a monocot) surface fibre when actually a hair from an epidermis or seed-coat, wood-fibre when a fibre strand from secondary xylem. A fibre-strand may be of considerable length, e.g. the bast fibre of manila varies from 6 to 12 feet long, but the staple (i.e. the uniformity in length of a sample) is highly variable. The length of individual fibres also is variable, e.g. 2 to 12 mm. for manila, less than 1 up to 8 mm. for jute and sisal and, as an exceptional case, from 60 to 250 mm. for ramie. While the staple primarily decides the use of bast and surface fibres, other considerations are the length, tensile strength, pliability, durability, and the economic factors governing its production on a commercial scale.\n\nThe economic history of fibre plants began when man first learnt their utility for some of his essential needs, e.g. for binding, netting, shelter construction. Present-day numbers of fibre-yielding plants exceeds 2,000 of which at least 500 are potential commercial species. Most of Australia's local production is for the pulping industries where the wood-fibres of trees both native (e.g. eucalypts) and cultivated (e.g. pines) are used in the making of paper and paper board, and particle and fibre building boards. Of the textile fibres, only cotton and flax have been cropped and milled on a large scale, the potential existing for the establishment of either native or introduced and established fibre-plants but high costs of production in this country impede progress. Some of the commercial bast and surface fibres well-known here are noted below.\n\n\n(a) Soft fibres. i.e. soft but pliable, with or without lignified walls, extracted (by retting) chiefly from dicot stems. Chief usage as fabrics, netting, cordage.\n\nJute: from Corchorus spp. (Family Tiliaceae) especially C. capsularis and C. olitorius, annuals up to 15 feet high. Second only to cotton in utility but production practically confined to small areas in Pakistan and India. Introduced to western commerce circa 1832 but origin very much earlier. Widely used in Australia for wool packs, wheat sacs, and hessians (or burlap).\n\nFlax: source for the textile fibre linen is from Linum usitatissimum (Linaceae). Of ancient and unknown origin but probably later than cotton. Up to recent years grown (in Australia, especially W.A.) for the fibre but the bulk now is for extraction of the fixed oil, linseed, from the seed.\n\nHemp: from the dioecious annual herb Cannabis sativa (Cannabidaceae). The resin extracted from largely the female inflorescences contains isomers of tetrahydrocannabinol with psychoactive effects on man. According to potency, the drug is available as marihuana (or bhang) when of low grade and potency, ganja when of higher quality, and hashish (or charas) when of highest (and most potent) grade. History similar to flax. Native to central and western Asia and widely cultivated, e.g. India, China, Japan.\n\nRamie: from Boehmeria nivea (Urticaceae) chiefly from China and India.\n\nSunn 'Hemp': from Crotalaria juncea (Papilionaceae) chiefly India but grows wild in tropical Australia where introduced.\n\nKenaf: from Hibiscus cannabinus (Malvaceae) chiefly India and Africa.\n\n\n(b) Hard fibres i.e. not necesarily 'harder' than the 'soft fibres' but usually with lignified walls and from the leaves and/or stems of (mainly) tropical or sub-tropical monocots. Chief usage cordage and ropage, matting, sacking.\n\nMania (abaca): from Musa textilis (Musaceae). Sometimes called manila hemp from its entrance to the trade through the port of Manila as a substitute for hemp. Well-known as marine rope.\n\nSisal: from Agave sisalana (Agavaceae). Originating from Mexico but chief production centres are Indonesia and Africa. Mainly cordage, ropage.\n\nNew Zealand Flax: from Phormium tenax (Agavaceae). Cordage and twine, matting.\n\nCoir: from the coconut Cocos nucifera (Palmae). Fibres from the fronds used in textiles, matting, cordage and ropage. Fibres from the husk of the fruit have the necessary stiffness and flexibility for broom and brush making.\n\nBass or Piassava: from the petioles of several palms chiefly the Brazilian Attalea funifera (as Bahia Bass). Broom and brushware.\n\nBassine or Palymra: from petioles of the palm Borassus flabellifer of Ceylon and the eastern coast of India and Burma. Broom and brushware.\n\nMillet Broom or Broom millet: from Sorghum vulgare (Gramineae) widely grown in Australia, originating from Africa and Asia.\n\nRaffia: not strictly a fibre but strips from the leaf-epidermis of the raffia palm Raphia pedunculata (native to Madagascar).\n\nRattan and bamboo: sometimes classed with fibres, are the stems or petioles of the tropical Asian climbing palms of Calamus spp. and the woody Bambusa (Gramineae) respectively.\n\n\n(c) Surface fibres.\n\nCotton: from hairs of the seed-coat of several horticultural strains of Gossypium spp. (Malvaceae), especially the diploid G. herbaceum and G. arboreum, and the tetraploid G. barbadense and G. hirsutum. Originating from India at least 5,000 years ago, a most versatile crop. Of seed or raw cotton, the long fibres (lint) are for fabrics and other textiles as cotton drill and cotton duck, the short fibres (linters) are for medicated cotton and filling material for upholstery. The seed yields an edible fixed oil, the residue (cotton seed cake) a stock food. See also under cellulose.\n\nKapok: the 'floss' from the seed of either Bombax malabarica (Indian Kapok) or Ceiba pentandra (Java Kapok) both trees of the Bombacaceae."
+    },
+    {
+        "id": 13240,
+        "term": "fibr(a) L.",
+        "meaning": "as in fibroid, fibrous, fibre."
+    },
+    {
+        "id": 13250,
+        "term": "Fibril",
+        "meaning": "in general, a fibre when very short in length or small in diameter. See also under cell wall."
+    },
+    {
+        "id": 13260,
+        "term": "Fibrillose",
+        "meaning": "with very fine fibre- or hair-like structures (fibrillae)."
+    },
+    {
+        "id": 13270,
+        "term": "Fibrose, Fibrous",
+        "meaning": "made up of fibres, or with an abundance of fibres."
+    },
+    {
+        "id": 13280,
+        "term": "Fibrous rooted",
+        "meaning": "of a root system when the component roots are adventitious with no single root dominant, each root producing lateral roots and so forming a tufted mass."
+    },
+    {
+        "id": 13290,
+        "term": "fici-",
+        "meaning": "as in ficifolia, of Ficus, the fig."
+    },
+    {
+        "id": 13300,
+        "term": "-fidus L.",
+        "meaning": "as in bifid, bifidus, divided."
+    },
+    {
+        "id": 13310,
+        "term": "Fidelity",
+        "meaning": "of ecology, the selectivity of a species for a particular community, e.g. Mulga (Acacia aneura) is selective to shrub steppe of arid regions of the continent."
+    },
+    {
+        "id": 13320,
+        "term": "Field Capacity",
+        "meaning": "of soil, the amount of water (expressed as a percentage) held following normal drainage of excess (or gravitational) water."
+    },
+    {
+        "id": 13330,
+        "term": "Filament",
+        "meaning": "in general, a thread-like structure. Of a stamen, the sterile support of an anther. Filamentous: of a filament, or thread-like."
+    },
+    {
+        "id": 13340,
+        "term": "fil(um) L.",
+        "meaning": "as in filiformis, a thread."
+    },
+    {
+        "id": 13350,
+        "term": "filici",
+        "meaning": "as in filicifolia, of a fern. From L. filix."
+    },
+    {
+        "id": 13360,
+        "term": "Filtrate",
+        "meaning": "of a solution or liquid mixture, the portion with molecular size small enough to pass through the pores of the filter used in filtration (e.g. a filter paper, filterpress, vacuum filter, porcelain filter, fritted glass filter, collodion filter etc.)."
+    },
+    {
+        "id": 13370,
+        "term": "fimbria(e) L.",
+        "meaning": "a fringe, a border."
+    },
+    {
+        "id": 13380,
+        "term": "Fimbriate",
+        "meaning": "bordered by fine hairs or thread-like segments"
+    },
+    {
+        "id": 13390,
+        "term": "fim(us) L.",
+        "meaning": "as in fimicarius, dung (hence dung-inhabiting)"
+    },
+    {
+        "id": 13400,
+        "term": "Fissile",
+        "meaning": "readily split, or with a tendency to split."
+    },
+    {
+        "id": 13410,
+        "term": "Fission",
+        "meaning": "in general, the splitting apart (cleavage) of a structure"
+    },
+    {
+        "id": 13420,
+        "term": "Fistular",
+        "meaning": "of a structure hollow throughout its length."
+    },
+    {
+        "id": 13430,
+        "term": "Fixation",
+        "meaning": "of histology, the preservation of structural detail as close as possible to that present in the living tissue or organism, to a degree determined by the 'fixative' (e.g. formalin, acetic acid, alcohol, chromic acid etc.)."
+    },
+    {
+        "id": 13440,
+        "term": "Flabellate, Flabelliform",
+        "meaning": "in the shape of a fan."
+    },
+    {
+        "id": 13450,
+        "term": "Flaccid",
+        "meaning": "withered and limp."
+    },
+    {
+        "id": 13460,
+        "term": "Flagellum",
+        "meaning": "(plural flagella) of plants, a filamentous. lash-like structure of certain motile cells, varying in number trom one to many, commonly of two forms one (of bacteria) formed by a single fibril, the other of nine peripheral and two central fibrils. Lateral hair-like structures may be present, the flagellum then known as a tinsel flagellum, or such structures may be absent, the flagellum then termed whiplash."
+    },
+    {
+        "id": 13470,
+        "term": "flamme(us) L.",
+        "meaning": "flame-coloured. fiery-red."
+    },
+    {
+        "id": 13480,
+        "term": "flavid(us) L.",
+        "meaning": "light yellow."
+    },
+    {
+        "id": 13490,
+        "term": "flav(us) L.",
+        "meaning": "as in flaverius, flavescens, flavus, yellow."
+    },
+    {
+        "id": 13500,
+        "term": "Flavonoid",
+        "meaning": "a group of yellow or orange pigments commonly found in flowers and fruits and in association with anthocyanins, usually a water-soluble crystalline solid chemically related to flavone C₁₅H₁₀O₂, occurring uncombined or as a glycoside when usually colourless. Also anthoxanthin."
+    },
+    {
+        "id": 13510,
+        "term": "flavogrise(us) L.",
+        "meaning": "yellowish-grey."
+    },
+    {
+        "id": 13520,
+        "term": "flavovirens L",
+        "meaning": "yellowish green."
+    },
+    {
+        "id": 13530,
+        "term": "Flexuose",
+        "meaning": "bending or curving in a wavy or zigzag manner."
+    },
+    {
+        "id": 13540,
+        "term": "Floccose",
+        "meaning": "appearing like tufts of soft wool, e.g. of hairs."
+    },
+    {
+        "id": 13550,
+        "term": "Flocculation",
+        "meaning": "of a colloid, a reversible precipitation from solution when the pH is adjusted to the isoelectric point, dissolution of the flocculate occurring when the pH is changed.\n\nOf soil, the formation of loose aggregates (floccules ) by colloids when there is sufficient adsorption of mineral cations (e.g. of calcium, magnesium). The floccules may be broken up (deflocculated by high or low pH ranges and the colloids leached to lower levels of the soil."
+    },
+    {
+        "id": 13560,
+        "term": "Flood plain",
+        "meaning": "an alluvial plain formed by the accumulation of sediment carried by rivers during flood."
+    },
+    {
+        "id": 13570,
+        "term": "Flora",
+        "meaning": "the species of plants present within a community or vegetation of a geographic area. In the sense of a published work, a compilation of such species usually arranged in accordance with a system of classification and with citations of locations and herbarium specimens vouchering for these locations. See also floristic."
+    },
+    {
+        "id": 13580,
+        "term": "Floral",
+        "meaning": "relative to a flower. From L. flos, a flower."
+    },
+    {
+        "id": 13590,
+        "term": "Floral cup",
+        "meaning": "a cup-like termination of a floral shoot which bears on its rim the perianth and stamens (when present and not borne by the perianth), the ovary enclosed at least partially by the cup either adnate with, or free from it. Also hypanthium, receptacle, torus."
+    },
+    {
+        "id": 13600,
+        "term": "Floral emblem",
+        "meaning": "for the Commonwealth, Golden Wattle, Acacia pycnantha. Although not necessarily official, for the Australian states generally accepted are:-\n\nWestern Australia - Kangaroo Paw, Anigosanthos manglesii;\n\nNorthern Territory - Blue Waterlily, Nymphaea gigantea or, alternatively, Sturt's Desert Rose, Gossypium sturtianum (Vermilion Gum Eucalyptus miniata also has been proposed);\n\nSouth Australia - Sturt Pea, Clianthus formosus;\n\nQueensland - Cooktown Orchid, Dendrobium bigibbum;\n\nNew South Wales - Waratah, Telopea speciosissima;\n\nVictoria - the heath Epacris impressa (Mountain Ash, Eucalyptus regnans also has been proposed);\n\nTasmania - Blue Gum, Eucalyptus globulus."
+    },
+    {
+        "id": 13610,
+        "term": "Floral tube",
+        "meaning": "in general, a floral cup in the form of a tube. Applied also to a certain type of perianth (e.g. of Liliaceae) when the sepals are united to form a tube."
+    },
+    {
+        "id": 13620,
+        "term": "Floret",
+        "meaning": "in general, a very small flower when a member of a compact inflorescence, especially the capitulum (head) of Compositae. Also the individual flower of a grass together with the innermost enclosing bracts (lemma and palea)."
+    },
+    {
+        "id": 13630,
+        "term": "Floriferous",
+        "meaning": "bearing or producing flowers."
+    },
+    {
+        "id": 13640,
+        "term": "Floriculture",
+        "meaning": "the cultivation of plants for flower production, particularly when marketed to the florist's trade (floristry)."
+    },
+    {
+        "id": 13650,
+        "term": "Florigen",
+        "meaning": "a hypothetical growth substance transmitting a stimulus to floral growth-points, present evidence however indicating that the hormonal control of flowering may be a dual mechanism of promotion and inhibition, perhaps through the interaction of a gibberellin and the kinin dormin (abscisic acid). See also phytochrome."
+    },
+    {
+        "id": 13660,
+        "term": "Floristic",
+        "meaning": "relative to members of a particular community or vegetation, i.e. of a flora. See also association, alliance, structure."
+    },
+    {
+        "id": 13670,
+        "term": "flos L.",
+        "meaning": "as in flosplenus, a flower (hence double-flowered)."
+    },
+    {
+        "id": 13680,
+        "term": "Flower",
+        "meaning": "a determinate stem-tip bearing appendages specialised for reproduction. The reproductive structure of angiosperms, composed (when complete) of perianth, androecium and gynoecium borne on a receptacle. Its development parallels that of a leafy shoot, the growth region an apical determinate meristem, the floral units formed in the same manner as normal leaves but with internodes very much reduced. Initiation of its development appears to concern an interrelationship of photoperiodic response and a hormonal control mechanism (see phytochrome). "
+    },
+    {
+        "id": 13690,
+        "term": "fluitans",
+        "meaning": "floating."
+    },
+    {
+        "id": 13700,
+        "term": "fluminalis, flumine(us) L.",
+        "meaning": "of a river or creek."
+    },
+    {
+        "id": 13710,
+        "term": "Fluorescence",
+        "meaning": "the emission of light from an object or substance when absorbing light from another source (e.g. ultra-violet light) for the period it is exposed to the exciting radiation, usually the fluorescent light of longer wave-length than the exciting light. cf. phosphorescence."
+    },
+    {
+        "id": 13720,
+        "term": "fluvialis, fluviatis L.",
+        "meaning": "of a river or creek (a fluvius)."
+    },
+    {
+        "id": 13730,
+        "term": "flux(us) L.",
+        "meaning": "flowing, passing away."
+    },
+    {
+        "id": 13740,
+        "term": "Fog",
+        "meaning": "a layer of moist air in contact with a surface of land, cooled below its dew-point (q.v.) by (in general) the horizontal movement of warm air over a cold surface, or a surface of land sloping to high elevations, or by the rapid cooling of the land by radiation of heat at night when there is little or no wind currents. The moisture of the air, condensed as water droplets or ice crystals and adsorbed by the surfaces of dust particles, is held as a suspension and may be precipitated by a further cooling of the atmosphere or dispersed by evaporation by a rise in temperature. When the adsorbing nuclei of dust particles are further increased by particles from smoke especially of industrial areas, a life injurious smog will result when there is insufficient dispersing wind movement."
+    },
+    {
+        "id": 13750,
+        "term": "Folding",
+        "meaning": "of the earth's crust, a movement of basement rock caused by compression during orogenesis (q.v.) or by uplift during epeirogenesis (q.v.). When the resultant fold is in the nature of a simple uplift (or warp) to a plateau, a monocline. When forming a simple arch, the fold is an anticline and when forming a hollow or trough, a syncline. When the magnitude of folding is large, the prefix geo- is affixed to the fold, e.g. geosyncline."
+    },
+    {
+        "id": 13760,
+        "term": "foli(um) L.",
+        "meaning": "as in myrtifolius, ericifolia, grandifolium, a leaf."
+    },
+    {
+        "id": 13770,
+        "term": "Foliaceous",
+        "meaning": "resembling a leaf in form and texture."
+    },
+    {
+        "id": 13780,
+        "term": "Foliage",
+        "meaning": "of a leaf-bearing plant, the leaves collectively borne at a specified time."
+    },
+    {
+        "id": 13790,
+        "term": "Foliar",
+        "meaning": "relative to a leaf or leaf system."
+    },
+    {
+        "id": 13800,
+        "term": "-foliate",
+        "meaning": "as in unifoliate, -leaved (hence bearing a single leaf)."
+    },
+    {
+        "id": 13810,
+        "term": "Foliation",
+        "meaning": "the production or bearing of leaves."
+    },
+    {
+        "id": 13820,
+        "term": "-foliolate",
+        "meaning": "as in unifoliolate, -leafleted (hence bearing compound leaves reduced to single leaflets)."
+    },
+    {
+        "id": 13830,
+        "term": "Foliose",
+        "meaning": "leafy; bearing a number of leaves."
+    },
+    {
+        "id": 13840,
+        "term": "Follicle",
+        "meaning": "a capsular fruit formed from a single carpel, containing one or more seeds and splitting open along a single lateral line (suture). e.g. the fruit of the Proteceae."
+    },
+    {
+        "id": 13850,
+        "term": "Follicular, folliculate",
+        "meaning": "resembling, or consisting of, follicles."
+    },
+    {
+        "id": 13860,
+        "term": "Folliculose",
+        "meaning": "bearing follicles."
+    },
+    {
+        "id": 13870,
+        "term": "fomes L.",
+        "meaning": "tinder; kindling wood."
+    },
+    {
+        "id": 13880,
+        "term": "Foot Candle",
+        "meaning": "of light, a unit of intensity (illumination or luminous intensity) equal to one lumen (q.v.) per square foot. Equivalent to 10.77 lux (q.v.)."
+    },
+    {
+        "id": 13890,
+        "term": "Forb",
+        "meaning": "an herbaceous plant other than a grass."
+    },
+    {
+        "id": 13900,
+        "term": "Foreshore",
+        "meaning": "either the part of the shore between high and low tide or (in an extended sense) between the tidal limit and adjacent land when cultivated or built upon."
+    },
+    {
+        "id": 13910,
+        "term": "Forest",
+        "meaning": "a closed community dominated by trees with crowns flat-topped and interlacing, and with boles of length equal to or greater than the depth of the crowns. In Australia, native forests occur to greatest extent in the coastal belt, and may be termed Hardwood, Rain, Cypress Pine, Riverrain Forests."
+    },
+    {
+        "id": 13920,
+        "term": "Forestry",
+        "meaning": "the science and art of establishing and maintaining forests for the production of timber or other economic need, e.g. pulping for the paper industry or for manufacture of building boards."
+    },
+    {
+        "id": 13930,
+        "term": "Food plant",
+        "meaning": "grown commercially or in use in Australia as a vegetable, or as a food adjunct (condiment, spice, flavouring agent) one of the following. Given also are the parent species, the family, and geographic origin as far as is known. See also separate entry for fruit (when in the domestic sense or the fruit used as a vegetable, ie. requiring such preparation as cooking) and cereal.\n\n(a) Root crops.\ni. Fleshy taproots used as vegetables.\n\n-Beetroot (Beta vulgaris ssp. vulgaris forma rubra. Fam. Chenopodiaceae) - Europe. Another form yields beet sugar, others chards and mangel-wurzels (mainly stock feeds).\n-Carrot (Daucus carota. Fam. Umbelliferae). Europe.\n-Parsnip (Pastinaca sativa. Fam. Umbelliferae). Europe.\n-Radish (Raphanus sativus. Fam. Cruciferae). Europe.\n-Salsify, or Oyster Plant (Tragopogon porrifolius. Fam. Compositae). Southern Europe.\n-Swede Turnip Brassica napus var. napobrassica. Fam. Cruciferae. Europe.\n-Sweet Potato (Ipomoea batatas. Fam. Convolvulaceae). Tropical America. (actually tubers arising from adventitious roots).\n-Turnip Brassica rapa ssp. rapa. Fam. Cruciferae). Europe.\n-Yam (Dioscorea alata chiefly. Fam. Dioscoreaceae). Tropics and sub-tropics.\n\nii. For condiments or flavouring.\n-Angelica (Angelica archangelica. Fam. Umbelliferae). Syria.\n-Horse-radish Armoracia rusticana. Fam. Cruciferae). South-east Europe.\n\niii. Other uses.\n-Cassava (Manihot esculenta. Fam. Euphorbiaceae). South America. Source of tapioca.\n-Chicory (Cichorium intybus. Fam. Compositae). Europe. When roasted, used as an adulterant of coffee.\n\n(b)﻿﻿﻿﻿Bulbs as vegetables or salad greens.\nAll examples of Allium. Fam. Liliaceae. Chiefly Mediterranean.\n-Chives, A. schoenoprasum. Europe, Asia\n-a.Chives, Chinese, A. odorum.\n-Garlic A. sativum. Its adventitious bulblets are known as cloves. (See also under flower buds.\n-Leek A. porrum. Probably Europe, Western Asia.\n-Onion A. cepa.\n-Shallot A. ascalonicum.\n\n(c) Tubers used as vegetables.\n-Artichoke, Jerusalem (Helianthus tuberosus. Fam. Compositae). North America.\n-Potato (Solanum tuberosum. Fam. Solanaceae). America.\n-Taro (Colocasia esculenta Fam. Araceae). South-east Asia.\n\n(d)Rhizomes as food adjuncts.\n-Ginger, Green, Dry (Zingiber officinale. Fam. Zingiberaceae). South-east Asia.\n-Sarsaparilla (Smilax spp. Fam. Smilacaceae). Tropical America.\n-Tumeric (Curcuma longa. Fam. Zingiberaceae). South-east Asia, East Indies. An ingredient of curry powder, a flavouring or colouring agent.\n\n(e)﻿﻿﻿﻿Aerial stems used as vegetables.\n-Asparagus (Asparagus officinalis. Fam. Liliaceae). Temperate Europe, western Asia.\n-Kohl Rabi (Brassica caulocarpa. Fam. Cruciferae). Unknown origin. Also called Turnip-rooted Cabbage from its short, turnip-like stem coloured white or purple.\n-Sea Kale (Crambe maritima. Fam. Cruciferae). Western Europe.\nExtracted.\n-Sugar Cane (Saccharum. Fam. Gramineae. Hybrids of S. officinarum, S. robusta, S. spontaneum, S. barberi, S. sinense). New Guinea, India, Indo-China. Source of cane sugar.\n-Sago (chiefly the palms of Metroxylon of Indonesia and the Philippines. See also under cycad.\n\n(f) Leaves as vegetables.\ni. the crucifers, varieties of Brassica oleracea. Fam. Cruciferae, its ancestor the wild extant colewort close to kale.\n-Cabbage (var. capitata) the large vegetative bud on a short axis. Coastal western Europe.\n-Cabbage, Chinese (var. pekinensis, the common chou; var. chinensis, Pakchoy; var. juncea, Gaichoy). Asia.\n-Brussels Sprouts (var. gemmifera) the compressed leaf-buds axillary on a long stem. ? origin.\n-Kale or Borecole (var. acephala). Europe.\n-White Mustard (Brassica hirta). Eurasia.\n\nii. Salad Greens.\n-Lettuce (Lactuca sativa. Fam. Compositae). Southern Europe, western Asia. Descended from wild lettuce L. scariola, includes head, cos, and cut-leaf lettuce.\n-Orach (Atriplex hortensis. Fam. Chenopodiaceae). Asia.\n-Spinach (Spinacia oleracea. Fam. Chenopodiaceae). South-west Asia.\n-Spinach, New Zealand (Tetragonia tetragonioides. Fam. Tetragoniaceae. Australia, New Zealand, South America, Japan.\n-Spinach, Summer (Amaranthus tricolor. Fam. Amaranthaceae). Probably tropical Asia. The Chinese Yin-choy.\n\niii. Leaves or herbage for flavouring. Culinary herbs.\n\na. Labiates. i.e. of Fam. Labiatae. Essential oil-bearers.\n-Balm (Melissa officinalis). Southern Europe.\n-Basil, Sweet (Ocimum basilicum). ? India, Africa.\n-Hoarhound (Marrubium vulgare). Europe, central Asia.\n-Marjoram Origanum majorana (Syn. Marjorana hortensis). Mediterranean.\n-Pennyroyal (Mentha pulegium). Europe, western Asia.\n-Peppermint, English Mint (Mentha piperita). Temperate northern hemisphere.\n-Sage (Salvia officinalis). Mediterranean.\n-Savory (Satureja hortensis). Mediterranean.\n-Spearmint. Garden Mint Mentha viridis (Syn. M. spicata). Temperate Europe and Asia.\n-Thyme (Thymus vulgaris) Mediterranean.\n\nb. Other than labiates. Essential oil-bearers.\n-Bay (Laurus nobilis. Fam. Lauraceae). Asia Minor.\n-Cress, Garden (Lepidium sativum. Fam. Cruciferae). ? origin.\n-Cress, Water (Nasturtium officinale. Fam. Cruciferae). ? origin.\n-Parsley (Petroselinum crispum. Fam. Umbelliferae). Mediterranean.\n-Poppyseed (Papaver somniferum. Fam. Papaveraceae). Europe, Asia.\n-Sesame (Sesame indicum. Fam. Pedaliaceae). Tropical northern hemisphere.\n-Tarragon (Artemisia dracunculus. Fam. Compositae). Western Asia.\n-Wintergreen (Gaultheria procumbens. Fam. Ericaceae). Eastern North America.\n-The bulb-crops chives, garlic, leek, shallot may be included here also.\n\niv. Leaves for beverages Tea, Black, Green (Camellia sinensis (Syn. Thea sinensis). Fam. Theaceae) China.\n\nv. Petioles used for vegetables.\n-Celeriac (Apium graveolens var. rapaccum. Fam. Umbelliferae). ? Asia.\n-Celery, Apium graveolens. Fam. Umbelliferae). Temperate Europe, western Asia. The blanched leaves with petioles.\n-Rhubarb (Rheum rhaponticum. Fam. Polygonaceae). Asia.\n\n(g)Immature inforescences.\n\ni. As vegetables. Of the crucifer Brassica oleracea.\n-Broccoli, Heading (var. botrytis).\n-Broccoli, Sprouting (var. italica). Immature flower-heads borne on thick, fleshy stalks.\n-Cauliflower (form of B. oleracea) with unknown origin. Hypertrophic development of aborted flowers.\n\nii. Flower buds for spices and condiments.\n-Capers (Capparis spinosa. Fam. Capparidaceae). Mediterranean.\n-Cloves (Syzygium aromaticum. Fam. Myrtaceae). Moluccas. Cultivated chiefly Zanzibar for use as a spice and for essential oil.\n\niii. Involucral bracts, Compositae.\n-Artichoke, Globe (Cynara scolymus). North Africa.\n\n(h)﻿﻿﻿﻿Fruit for flavouring or spices. Essential oil-bearers.\n﻿﻿﻿﻿i. Members of Umbelliferae with mericarps used in flavouring.\n-Angelica (Angelica archangelica). Syria./n-Anise (Pimpinella anisum). Mediterranean.\n-Caraway (Carum carvi). Europe, western Asia.\n-Celery (Apium graveolens var. dulce). Origin unknown.\n-Coriander (Coriandrum sativum). Southern Europe.\n-Cumin (Cuminum cyminum). Mediterranean.\n-Dill (Anethum graveolens). Mediterranean.\n-Fennel (Foeniculum vulgare). Mediterranean.\n\nii. Mainly as spices.\n-Allspice (Pimenta officinalis. Fam. Myrtaceae). West Indies, Central and South America.\n-Anise, Star (Illicium verum. Fam. Illiciaceae). ? China.\n-Juniper (Junipera communis. Fam. Cupressaceae). Northern Hemisphere. The cone used in flavouring.\n-Pepper, Black, White (Piper nigrum. Fam. Piperaceae). India or Malaysia.\n-Roselle (Hibiscus sabdariffa. Fam. Malvaceae). Southern Europe. Used mainly in jams and preserves.\n-Vanilla (Vanilla fragrans. Fam. Orchidaceae). Tropical America.\n\n(i) Seeds\n\ni. Seeds used in flavouring or as spices.\n-Cardamon (Elettaria cardamomum. Fam. Zingiberaceae). India.\n-Lotus, East Indian or Chinese (Nelumbo nucifera. Fam. Nelumbonaceae). South Asia to Australia.\n-Mustard, Black or Table (Brassica nigra. Fam. Cruciferae). India, Eurasia.\n-Mustard, White (Brassica hirta). Eurasia.\n-Mustard, Indian (Brassica juncea). Asia.\n-Nutmeg and Mace (Myristica fragrans. Fam. Myristicaceae). Moluccas. The seed provides a spice, its aril mace.\n-Tonka Bean (Dipteryx odorata, D. oppositifolia. Fam. Papilionaceae). South America. The woody, 1-seeded, drupe-like pod with seed used in flavouring and as a source of coumarin for perfumery.\n\nii. Seeds used for beverages.\n-Coffee, Arabian (Coffea arabica. Fam. Rubiaceae). The seed ('bean') of the berry. Tropical Africa.\n-Cocoa, Chocolate (Theobroma cacao. Fam. Sterculiaceae). Tropical America. The seed of the capsule\n\niii. Grain crops (of Gramineae) additional to those given under cereal.\n-Sweetcorn (Zea mays var. saccharata). Several hybrids of maize (Zea mays) yield grain for starch, cornflour, and breakfast foods additional to use as stock-feed.\n-Popcorn (a mutant of Zea mays var. indurata). The grain when exploded by heating used as a confection.\n-Sorghum (Sorghum vulgare). Several forms used for canning.\n\n(j) Extracts from bark. The three given of Lauraceae yield an essential oil.\n-Cassia, Chinese Cinnamon (Cinnamomum cassia). Southern China. For flavouring.\n-Cinnamon (Cinnamomum zeylanicum). India, Malaysia, Spice.\n-Sassafras (Sassafras albidum). Eastern North America. A flavouring for beverages.\n\nFor Mushroom, Morel, Truffle, Yeast, see under fungus."
+    },
+    {
+        "id": 13940,
+        "term": "Form, forma",
+        "meaning": "a category subordinate to a species and subspecies. A sub-group within a species displaying a minor character, e.g. of habit, pubescence, colour etc. Also Race."
+    },
+    {
+        "id": 13950,
+        "term": "Formation",
+        "meaning": "of ecology, a unit of structure grouping all stable communities of the same structural form without regard to floristic composition. For Australian conditions, groups recommended are grassland, savannah, alpine herbfield, fen, bog, feldmark, heath, saltbush, scrub, mallee, woodland, sclerophyll forest, rain forest."
+    },
+    {
+        "id": 13960,
+        "term": "formic(a) L.",
+        "meaning": "as in formicifera, an ant (hence attracting ants by some sugary principle, the plant being described as formicarian)."
+    },
+    {
+        "id": 13970,
+        "term": "formos(us) L.",
+        "meaning": "finely formed; of elegant appearance."
+    },
+    {
+        "id": 13980,
+        "term": "Fornicated",
+        "meaning": "of a structure when in the form of an arch."
+    },
+    {
+        "id": 13990,
+        "term": "Fossil",
+        "meaning": "a rock (usually sedimentary) possessing the remains or casts (impressions) of organic life belonging presumably to a former geologic age."
+    },
+    {
+        "id": 14000,
+        "term": "Fossiliferous",
+        "meaning": "fossil-bearing, e.g. diatomaceous earth, coal, crude oil."
+    },
+    {
+        "id": 14010,
+        "term": "Fossilisation",
+        "meaning": "the process of preserving, through sedimentation and stratification of rock, organic remains or impressions. See also petrification."
+    },
+    {
+        "id": 14020,
+        "term": "Foveate",
+        "meaning": "of a surface when pitted by a series of cavities or depressions (L. fovae)."
+    },
+    {
+        "id": 14030,
+        "term": "Foveolate",
+        "meaning": "the diminutive form of foveate, i.e. the depressions. (foveola) very small."
+    },
+    {
+        "id": 14040,
+        "term": "Free",
+        "meaning": "in general, separate; not attached. Of parts not joined to other structures, applied strictly when not of the same kind, e.g. stamens free from petals. cf. distinct."
+    },
+    {
+        "id": 14050,
+        "term": "Frequency",
+        "meaning": "of ecology, the percentage of individuals of a particular species present in the sampling of a defined area. cf. density.\n\nOf a wave-motion, e.g. of radiant energy, the ratio of velocity to wave-length."
+    },
+    {
+        "id": 14060,
+        "term": "Frond",
+        "meaning": "usually applied to the leaf of a fern, but has been used also for the leaf of a palm, for the minute acaulescent members of Lemnaceae (e.g. the pond-weeds of Lemna and Woolfia), and for the thallus of an alga or lichen when foliaceous."
+    },
+    {
+        "id": 14070,
+        "term": "Frost",
+        "meaning": "of ground, the precipitate of ice-crystals formed from atmospheric moisture when the latter is cooled to a dew-point below freezing (32°F.) from its contact with ground brought to a sufficiently low temperature by its re-radiation of heat to the upper atmosphere at night. Factors which promote the excessive loss of heat include: long night-low temperature, absence of cloud cover or fog, low concentration of atmospheric moisture (these factors when not limiting normally promoting the reflection of heat back to earth), absence of wind-movement, wind-movement normally tending to redistribute heat uniformly."
     },
     {
         "id": 19850,

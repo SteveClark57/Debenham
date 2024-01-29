@@ -31,6 +31,9 @@ struct SearchView: View {
                 }
             }
             .searchable(text: $searchText, placement: .navigationBarDrawer(displayMode: .always),prompt: "Search for a term")
+            .keyboardType(.asciiCapable) // removes ability to enter emoji
+            .autocorrectionDisabled()  // disables autocorrection
+            .textInputAutocapitalization(.never) // forces lowercase
             .onAppear(perform: filterTerms)
             .onChange(of: searchText) { 
                 filterTerms()

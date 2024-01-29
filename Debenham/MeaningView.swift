@@ -16,6 +16,8 @@ struct MeaningView: View {
         
         ScrollView {
             Text(definition.meaning)
+                .multilineTextAlignment(/*@START_MENU_TOKEN@*/.leading/*@END_MENU_TOKEN@*/)
+                .padding(10)
         }
     }
 }
