@@ -23,3 +23,7 @@ struct RandomView: View {
         }
     }
 }
+
+#Preview {
+    RandomView()
+}

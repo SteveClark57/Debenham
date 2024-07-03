@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-
+    
     var body: some View {
         NavigationStack {
             ZStack {
@@ -20,7 +20,7 @@ struct ContentView: View {
                         .fontWeight(.medium)
                         .font(.system(size: 30))
                     Text("by Clifford Neville Debenham")
-
+                    
                     
                     Image(.coverPic)
                         .resizable()
@@ -46,7 +46,7 @@ struct ContentView: View {
                                     .foregroundStyle(.white)
                             }
                             NavigationLink {
-                                PlatesView()
+                                AllPlatesView()
                             } label: {
                                 Text("Plates from the book")
                                     .font(.title)
@@ -61,14 +61,11 @@ struct ContentView: View {
                             }
                         }
                         
-                            Image(.anpsaLogo)
-                                .resizable()
-                                .frame(width: 80, height: 98)
-
+                        Image(.anpsaLogo)
+                            .resizable()
+                            .frame(width: 80, height: 98)
+                        
                     }
-                    
-                    
-                    
                     Spacer()
                 }
             }

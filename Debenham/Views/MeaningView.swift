@@ -21,3 +21,8 @@ struct MeaningView: View {
         }
     }
 }
+
+#Preview {
+    MeaningView(definition: Definition(id: 32060, term: "Serrate", meaning: "of a margin when sharply indented to appear like the forward-pointing teeth of a saw."))
+}
+
